@@ -15,14 +15,12 @@ The table below gives the results of each method in terms of number of FCU crops
 
 | Alignment method   | FCU concepts | Intermediate source | TAXREF-LD taxa | Taxonomic ranks |
 | :-- |       :--:   |         :--: |           :--: | :--: |
-| 1. FCU name `-exact string match->` TAXREF-LD vernacular name | 198 | | 824 | species, subspecies, varietas, forma, cultivar |
-| 2. FCU name `-exact string match->` GEVES name `->` GEVES scientific name with authority `-substring match->` TAXREF-LD full scientific name | 64 | 89  | 87 | species, subspecies |
-| 3. FCU name `-API match->` EPPO code `->` EPPO scientific name with authority/date `-exact string match->` TAXREF-LD full scientific name | 266 | 334 | 317 | species, subspecies, varietas, forma, cultivar |
+| 1. FCU name `-exact string match->` TAXREF-LD vernacular name | 161 | | 369 | species, subspecies, varietas, forma, cultivar |
+| 2. FCU name `-exact string match->` GEVES name `->` GEVES scientific name with authority `-substring match->` TAXREF-LD full scientific name | 64 | 57  | 57 | species, subspecies |
+| 3. FCU name `-API match->` EPPO code `->` EPPO scientific name with authority/date `-exact string match->` TAXREF-LD full scientific name | 266 | 306 | 315 | species, subspecies, varietas, forma, cultivar |
 
 
 ## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 Data files (csv, xlsx) are made available under the terms of the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
 
