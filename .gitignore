@@ -1,0 +1,10 @@
+.cache
+.classpath
+.project
+*checkpoint.ipynb
+.settings/
+.metadata/
+.DS_Store
+*~
+_do_not_commit/
+*.bak
