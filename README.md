@@ -2,9 +2,9 @@
 
 This project contains different experiments meant to align the [French Crop Usage](http://ontology.irstea.fr/pmwiki.php/Site/FrenchCropUsage) theaurus (FCU) with [TAXREF-LD](https://github.com/frmichel/taxref-ld/), the Linked Data representation of the french taxonomic registry, [TAXREF](https://inpn.mnhn.fr/programme/referentiel-taxonomique-taxref?lg=en).
 
-One experiment favors alignement precision (few alignments with better precision), while the other favors recall (more alignments with potentially more false positives).
+One experiment favors alignments precision (fewer alignments with better precision), while the other favors recall (more alignments with potentially more false positives).
 
-In both cases, 3 methods are run separately and intermediate results and then merges:
+In both cases, 3 methods are run separately and intermediate results and then merged:
 - Method 1: direct lowercase exact match of FCU crop names with TAXREF-LD vernacular names.
 - Method 2: use the [GEVES](https://www.geves.fr/) catalog of seeds as an intermediary source
     - lowercase exact match of FCU crop names with GEVES seed names, and get the corresponding scientific names. Remark: GEVES registers lowercase scientific names with the authority but not the date, e.g.: *prunus armeniaca l.* instead of the proper full scientific name *Prunus armeniaca L., 1753*;
@@ -13,7 +13,7 @@ In both cases, 3 methods are run separately and intermediate results and then me
     - use the EPPO API to match FCU crop names with EPPO codes, and get the corresponding full scientific names;
     - lowercase exact match of EPPO full scientific names with TAXREF-LD full scientific names.
 
-The tables below give the results of each method in terms of number of FCU crops aligned with TAXREF-LD taxa. Column "Intermediate source" means GEVES in method 2 and EPPO in method 3.
+The tables below give, for each experiment "precision" or "recall", the results of each method in terms of number of FCU crops aligned with TAXREF-LD taxa. Column "Intermediate source" means GEVES in method 2 and EPPO in method 3.
 
 ## Algorithm tuned for precision
 
