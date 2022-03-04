@@ -1,0 +1,618 @@
+fcu_concept,method,geves_name,eppo_scientific_name,taxref_ref_full_name,taxon,rank
+http://ontology.inrae.fr/frenchcropusage/Abricotiers,eppo,,Prunus armeniaca,"Prunus armeniaca L., 1753",http://taxref.mnhn.fr/lod/taxon/116041,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Abricotiers,eppo,,Prunus armeniaca,"Prunus domestica var. insititia (L.) Fiori & Paol., 1898",http://taxref.mnhn.fr/lod/taxon/965160,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Abricotiers_pays,eppo,,Mammea americana,"Mammea americana L., 1753",http://taxref.mnhn.fr/lod/taxon/447085,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Abricotiers_pays,eppo,,Pouteria sapota,"Pouteria sapota (Jacq.) H.E.Moore & Stearn, 1967",http://taxref.mnhn.fr/lod/taxon/630482,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Actinidias,eppo,,Actinidia chinensis,"Actinidia chinensis Planch., 1847",http://taxref.mnhn.fr/lod/taxon/80138,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Actinidias,eppo,,Actinidia chinensis,"Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson, 1984",http://taxref.mnhn.fr/lod/taxon/80140,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Actinidias,eppo,,Actinidia chinensis,"Actinidia chinensis Planch., 1847",http://taxref.mnhn.fr/lod/taxon/80138,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Actinidias,eppo,,Actinidia chinensis,"Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson, 1984",http://taxref.mnhn.fr/lod/taxon/80140,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ails,eppo,,Allium sativum,"Allium sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/81505,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ails,eppo,,Allium sativum,"Allium sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/81505,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ails,eppo,,Allium sativum,"Allium sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/81505,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ails,eppo,,Allium vineale,"Allium vineale L., 1753",http://taxref.mnhn.fr/lod/taxon/81544,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Alpistes,eppo,,Phalaris brachystachys,"Phalaris brachystachys Link, 1806",http://taxref.mnhn.fr/lod/taxon/112980,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Alpistes,eppo,,Phalaris canariensis,"Phalaris canariensis L., 1753",http://taxref.mnhn.fr/lod/taxon/112988,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Alpistes,eppo,,Phalaris canariensis,"Phalaris brachystachys Link, 1806",http://taxref.mnhn.fr/lod/taxon/112980,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Amandiers,eppo,,Prunus dulcis,"Prunus dulcis (Mill.) D.A.Webb, 1967",http://taxref.mnhn.fr/lod/taxon/116068,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ananas,eppo,,Ananas comosus,"Ananas comosus (L.) Merr., 1917",http://taxref.mnhn.fr/lod/taxon/447782,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Aneths,eppo,,Anethum graveolens,"Anethum graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/82692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Aneths,eppo,,Anethum graveolens,"Anethum graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/82692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Aneths,eppo,,Anethum graveolens,"Anethum graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/82692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Angeliques,eppo,,Dicorynia guianensis,"Dicorynia guianensis Amshoff, 1939",http://taxref.mnhn.fr/lod/taxon/733639,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Angeliques,eppo,,Angelica archangelica,"Angelica archangelica L., 1753",http://taxref.mnhn.fr/lod/taxon/82705,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Angeliques,eppo,,Angelica archangelica,"Angelica archangelica L., 1753",http://taxref.mnhn.fr/lod/taxon/82705,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Anis_vert,eppo,,Pimpinella anisum,"Pimpinella anisum L., 1753",http://taxref.mnhn.fr/lod/taxon/113554,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Anis_vert,eppo,,Pimpinella anisum,"Pimpinella anisum L., 1753",http://taxref.mnhn.fr/lod/taxon/113554,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Arachides,eppo,,Arachis hypogaea,"Arachis hypogaea L., 1753",http://taxref.mnhn.fr/lod/taxon/611649,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Arachides,eppo,,Arachis hypogaea,"Arachis hypogaea L., 1753",http://taxref.mnhn.fr/lod/taxon/611649,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Artichauts,eppo,,Cynara scolymus,"Cynara scolymus L., 1753",http://taxref.mnhn.fr/lod/taxon/93795,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Asperges,eppo,,Hyssopus officinalis,"Hyssopus officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/103406,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Asperges,eppo,,Asparagus albus,"Asparagus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/84265,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Asperges,eppo,,Limodorum abortivum,"Limodorum abortivum (L.) Sw., 1799",http://taxref.mnhn.fr/lod/taxon/106026,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Attiers,eppo,,Annona squamosa,"Annona squamosa L., 1753",http://taxref.mnhn.fr/lod/taxon/446901,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Attiers,eppo,,Annona squamosa,"Annona squamosa L., 1753",http://taxref.mnhn.fr/lod/taxon/446901,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Aubergines,eppo,,Solanum melongena,"Solanum melongena L., 1753",http://taxref.mnhn.fr/lod/taxon/124075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avocatiers,eppo,,Persea americana,"Persea americana Mill., 1768",http://taxref.mnhn.fr/lod/taxon/447273,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines,eppo,,Avena sativa,"Avena sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/85357,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_nues,eppo,,Avena nuda,"Avena nuda L., 1756",http://taxref.mnhn.fr/lod/taxon/85323,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_nues,eppo,,Avena nuda,"Avena nuda L., 1756",http://taxref.mnhn.fr/lod/taxon/85323,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_rudes,eppo,,Avena strigosa,"Avena strigosa Schreb., 1771",http://taxref.mnhn.fr/lod/taxon/85378,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_rudes,eppo,,Avena strigosa,"Ventenata dubia (Leers) Coss., 1855",http://taxref.mnhn.fr/lod/taxon/128518,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Badianiers_de_Chine,eppo,,Illicium verum,"Illicium verum Hook.f., 1888",http://taxref.mnhn.fr/lod/taxon/629897,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Badianiers_de_Chine,eppo,,Illicium verum,"Illicium verum Hook.f., 1888",http://taxref.mnhn.fr/lod/taxon/629897,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bananiers,eppo,,Musa x paradisiaca,"Musa x paradisiaca L., 1753",http://taxref.mnhn.fr/lod/taxon/447855,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bananiers_plantains,eppo,,Musa x paradisiaca,"Musa x paradisiaca L., 1753",http://taxref.mnhn.fr/lod/taxon/447855,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bardanes,eppo,,Arctium lappa,"Arctium lappa L., 1753",http://taxref.mnhn.fr/lod/taxon/83499,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Basilics,eppo,,Ocimum basilicum,"Ocimum basilicum L., 1753",http://taxref.mnhn.fr/lod/taxon/109797,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Betteraves,eppo,,Beta vulgaris,"Beta vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/85820,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium L., 1753",http://taxref.mnhn.fr/lod/taxon/966887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium L., 1753",http://taxref.mnhn.fr/lod/taxon/966887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Bigaradiers,eppo,,Citrus aurantium,"Citrus x aurantium L., 1753",http://taxref.mnhn.fr/lod/taxon/966887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_durs,eppo,,Triticum durum,"Triticum turgidum subsp. durum (Desf.) Husn., 1899",http://taxref.mnhn.fr/lod/taxon/141978,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Bles_durs,eppo,,Bombax ceiba,"Bombax ceiba L., 1753",http://taxref.mnhn.fr/lod/taxon/629181,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres,eppo,,Triticum aestivum,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Centaurea cyanus,"Cyanus segetum Hill, 1762",http://taxref.mnhn.fr/lod/taxon/93680,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Centaurea cyanus,"Cyanus segetum Hill, 1762",http://taxref.mnhn.fr/lod/taxon/93680,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Vaccinium myrtillus,"Vaccinium myrtillus L., 1753",http://taxref.mnhn.fr/lod/taxon/128345,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Centaurea cyanus,"Cyanus segetum Hill, 1762",http://taxref.mnhn.fr/lod/taxon/93680,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Cyanus montanus,"Cyanus montanus (L.) Hill, 1768",http://taxref.mnhn.fr/lod/taxon/93673,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Cyanus montanus,"Cyanus montanus (L.) Hill, 1768",http://taxref.mnhn.fr/lod/taxon/93673,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Centaurea cyanus,"Cyanus segetum Hill, 1762",http://taxref.mnhn.fr/lod/taxon/93680,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Cyanus montanus,"Cyanus montanus (L.) Hill, 1768",http://taxref.mnhn.fr/lod/taxon/93673,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bleuets,eppo,,Cyanus montanus,"Cyanus montanus (L.) Hill, 1768",http://taxref.mnhn.fr/lod/taxon/93673,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bourraches,eppo,,Borago officinalis,"Borago officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/86156,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bourraches,eppo,,Borago officinalis,"Borago officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/86156,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bredes,eppo,,Acmella oleracea,"Acmella oleracea (L.) R.K.Jansen, 1985",http://taxref.mnhn.fr/lod/taxon/629011,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bugles_rampantes,eppo,,Ajuga reptans,"Ajuga reptans L., 1753",http://taxref.mnhn.fr/lod/taxon/80990,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cacaoyers,eppo,,Theobroma cacao,"Theobroma cacao L., 1753",http://taxref.mnhn.fr/lod/taxon/447630,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cafeiers,eppo,,Coffea arabica,"Coffea arabica L., 1753",http://taxref.mnhn.fr/lod/taxon/447477,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Calebasses,eppo,,Lagenaria siceraria,"Lagenaria siceraria (Molina) Standl., 1930",http://taxref.mnhn.fr/lod/taxon/104807,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Calebasses,eppo,,Cucurbita pepo,"Cucurbita pepo L., 1753",http://taxref.mnhn.fr/lod/taxon/93555,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Camelines,eppo,,Camelina sativa,"Camelina sativa (L.) Crantz, 1762",http://taxref.mnhn.fr/lod/taxon/87583,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Camomilles,eppo,,Chamaemelum nobile,"Chamaemelum nobile (L.) All., 1785",http://taxref.mnhn.fr/lod/taxon/90470,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Canneberges,eppo,,Vaccinium oxycoccos,"Vaccinium oxycoccos L., 1753",http://taxref.mnhn.fr/lod/taxon/128347,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cannes_sucres,eppo,,Saccharum officinarum,"Saccharum officinarum L., 1753",http://taxref.mnhn.fr/lod/taxon/446334,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Caramboliers,eppo,,Allium ampeloprasum,"Allium ampeloprasum L., 1753",http://taxref.mnhn.fr/lod/taxon/81313,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Caramboliers,eppo,,Averrhoa carambola,"Averrhoa carambola L., 1753",http://taxref.mnhn.fr/lod/taxon/447428,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cardamomes,eppo,,Elettaria cardamomum,"Elettaria cardamomum (L.) Maton, 1811",http://taxref.mnhn.fr/lod/taxon/629613,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cardons,eppo,,Cynara cardunculus,"Cynara cardunculus L., 1753",http://taxref.mnhn.fr/lod/taxon/93783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cardons,eppo,,Cynara cardunculus,"Cynara cardunculus L., 1753",http://taxref.mnhn.fr/lod/taxon/93783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carottes,eppo,,Daucus carota,"Daucus carota L., 1753",http://taxref.mnhn.fr/lod/taxon/94503,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carottes,eppo,,Daucus carota,"Daucus carota subsp. sativus (Hoffm.) Schübl. & G.Martens, 1834",http://taxref.mnhn.fr/lod/taxon/133744,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Caroubiers,eppo,,Ceratonia siliqua,"Ceratonia siliqua L., 1753",http://taxref.mnhn.fr/lod/taxon/447038,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carvis,eppo,,Carum carvi,"Carum carvi L., 1753",http://taxref.mnhn.fr/lod/taxon/89250,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carvis,eppo,,Carum carvi,"Carum carvi L., 1753",http://taxref.mnhn.fr/lod/taxon/89250,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carvis,eppo,,Carum carvi,"Carum carvi L., 1753",http://taxref.mnhn.fr/lod/taxon/89250,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cassissiers,eppo,,Ribes nigrum,"Ribes nigrum L., 1753",http://taxref.mnhn.fr/lod/taxon/117766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cassissiers,eppo,,Ribes nigrum,"Ribes nigrum L., 1753",http://taxref.mnhn.fr/lod/taxon/117766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cedratiers,eppo,,Citrus medica,"Citrus medica L., 1753",http://taxref.mnhn.fr/lod/taxon/91811,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris,eppo,,Apium graveolens,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris,eppo,,Apium graveolens,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris,eppo,,Cicuta virosa,"Cicuta virosa L., 1753",http://taxref.mnhn.fr/lod/taxon/91199,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris_couper,eppo,,Apium graveolens var. secalinum,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris_raves,eppo,,Apium graveolens var. rapaceum,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris_raves,eppo,,Apium graveolens var. rapaceum,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris_raves,eppo,,Apium graveolens var. rapaceum,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris_raves,eppo,,Apium graveolens var. rapaceum,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils,eppo,,Anthriscus cerefolium,"Anthriscus cerefolium (L.) Hoffm., 1814",http://taxref.mnhn.fr/lod/taxon/82932,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises,eppo,,Myrrhis odorata,"Myrrhis odorata (L.) Scop., 1771",http://taxref.mnhn.fr/lod/taxon/109161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises,eppo,,Myrrhis odorata,"Myrrhis odorata (L.) Scop., 1771",http://taxref.mnhn.fr/lod/taxon/109161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises,eppo,,Myrrhis odorata,"Myrrhis odorata (L.) Scop., 1771",http://taxref.mnhn.fr/lod/taxon/109161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises,eppo,,Myrrhis odorata,"Myrrhis odorata (L.) Scop., 1771",http://taxref.mnhn.fr/lod/taxon/109161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises,eppo,,Myrrhis odorata,"Myrrhis odorata (L.) Scop., 1771",http://taxref.mnhn.fr/lod/taxon/109161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_communs,eppo,,Anthriscus cerefolium,"Anthriscus cerefolium (L.) Hoffm., 1814",http://taxref.mnhn.fr/lod/taxon/82932,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_communs,eppo,,Anthriscus cerefolium,"Anthriscus cerefolium (L.) Hoffm., 1814",http://taxref.mnhn.fr/lod/taxon/82932,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_tubereux,eppo,,Chaerophyllum bulbosum,"Chaerophyllum bulbosum L., 1753",http://taxref.mnhn.fr/lod/taxon/90330,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_tubereux,eppo,,Chaerophyllum bulbosum,"Chaerophyllum bulbosum L., 1753",http://taxref.mnhn.fr/lod/taxon/90330,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils_tubereux,eppo,,Chaerophyllum bulbosum,"Chaerophyllum bulbosum L., 1753",http://taxref.mnhn.fr/lod/taxon/90330,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,eppo,,Prunus cerasus,"Prunus cerasus L., 1753",http://taxref.mnhn.fr/lod/taxon/116054,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,eppo,,Prunus avium,"Prunus avium (L.) L., 1755",http://taxref.mnhn.fr/lod/taxon/116043,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,eppo,,Prunus avium,"Prunus avium (L.) L., 1755",http://taxref.mnhn.fr/lod/taxon/116043,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,eppo,,Prunus avium,"Prunus avium (L.) L., 1755",http://taxref.mnhn.fr/lod/taxon/116043,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers_de_Cayenne,eppo,,Eugenia uniflora,"Eugenia uniflora L., 1753",http://taxref.mnhn.fr/lod/taxon/447398,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Champignons,eppo,,Agaricus bisporus,"Agaricus bisporus (J.E.Lange) Imbach, 1946",http://taxref.mnhn.fr/lod/taxon/37939,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Champignons,eppo,,Agaricus bisporus,"Agaricus bisporus (J.E.Lange) Imbach, 1946",http://taxref.mnhn.fr/lod/taxon/37939,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Champignons,eppo,,Agaricus bisporus,"Agaricus bisporus (J.E.Lange) Imbach, 1946",http://taxref.mnhn.fr/lod/taxon/37939,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chanvres,eppo,,Cannabis sativa subsp. indica,"Cannabis sativa subsp. indica (Lam.) E.Small & Cronquist, 1976",http://taxref.mnhn.fr/lod/taxon/132533,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Chanvres,eppo,,Cannabis sativa,"Cannabis sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/87788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chanvres,eppo,,Cannabis sativa,"Cannabis sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/87788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chardons_Marie,eppo,,Silybum marianum,"Silybum marianum (L.) Gaertn., 1791",http://taxref.mnhn.fr/lod/taxon/123705,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chataigniers,eppo,,Castanea sativa,"Castanea sativa Mill., 1768",http://taxref.mnhn.fr/lod/taxon/89304,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chataigniers,eppo,,Castanea sativa,"Castanea sativa Mill., 1768",http://taxref.mnhn.fr/lod/taxon/89304,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chenes,eppo,,Quercus robur,"Quercus robur L., 1753",http://taxref.mnhn.fr/lod/taxon/116759,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chenes,eppo,,Quercus petraea,"Quercus petraea (Matt.) Liebl., 1784",http://taxref.mnhn.fr/lod/taxon/521658,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees,eppo,,Cichorium intybus,"Cichorium intybus L., 1753",http://taxref.mnhn.fr/lod/taxon/91169,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees,eppo,,Cichorium intybus,"Cichorium intybus L., 1753",http://taxref.mnhn.fr/lod/taxon/91169,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_Bruxelles,eppo,,Cichorium endivia,"Cichorium endivia L., 1753",http://taxref.mnhn.fr/lod/taxon/91165,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_frisees,eppo,,Cichorium endivia var. crispum,"Cichorium endivia var. crispum (Mill.) Lam., 1785",http://taxref.mnhn.fr/lod/taxon/716905,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Chicorees_frisees,eppo,,Cichorium endivia var. crispum,"Cichorium endivia var. crispum (Mill.) Lam., 1785",http://taxref.mnhn.fr/lod/taxon/716905,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Chicorees_frisees,eppo,,Cichorium endivia,"Cichorium endivia L., 1753",http://taxref.mnhn.fr/lod/taxon/91165,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_industrielles,eppo,,Cichorium intybus var. sativum,"Cichorium intybus var. sativum Bisch., 1851",http://taxref.mnhn.fr/lod/taxon/613491,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Chicorees_potageres,eppo,,Cichorium intybus,"Cichorium intybus L., 1753",http://taxref.mnhn.fr/lod/taxon/91169,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_potageres,eppo,,Cichorium endivia,"Cichorium endivia L., 1753",http://taxref.mnhn.fr/lod/taxon/91165,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_scaroles,eppo,,Lactuca serriola,"Lactuca serriola L., 1756",http://taxref.mnhn.fr/lod/taxon/104775,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Choux,eppo,,Brassica oleracea,"Brassica oleracea L., 1753",http://taxref.mnhn.fr/lod/taxon/86406,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Choux_Bruxelles,eppo,,Brassica oleracea var. gemmifera,"Brassica oleracea var. gemmifera DC., 1821",http://taxref.mnhn.fr/lod/taxon/446633,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Bruxelles,eppo,,Brassica oleracea var. gemmifera,"Brassica oleracea var. gemmifera DC., 1821",http://taxref.mnhn.fr/lod/taxon/446633,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Bruxelles,eppo,,Brassica oleracea var. gemmifera,"Brassica oleracea var. gemmifera DC., 1821",http://taxref.mnhn.fr/lod/taxon/446633,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Milan,eppo,,Brassica oleracea var. sabauda,"Brassica oleracea var. sabauda L., 1753",http://taxref.mnhn.fr/lod/taxon/144392,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Milan,eppo,,Brassica oleracea var. sabauda,"Brassica oleracea var. sabauda L., 1753",http://taxref.mnhn.fr/lod/taxon/144392,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Milan,eppo,,Brassica oleracea var. sabauda,"Brassica oleracea var. sabauda L., 1753",http://taxref.mnhn.fr/lod/taxon/144392,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_Milan,eppo,,Brassica oleracea var. sabauda,"Brassica oleracea var. sabauda L., 1753",http://taxref.mnhn.fr/lod/taxon/144392,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_brocolis,eppo,,Brassica oleracea var. italica,"Brassica oleracea var. italica Plenck, 1794",http://taxref.mnhn.fr/lod/taxon/613661,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_brocolis,eppo,,Brassica oleracea var. italica,"Brassica oleracea var. italica Plenck, 1794",http://taxref.mnhn.fr/lod/taxon/613661,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_cabus_blancs,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_cabus_blancs,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_chinois,eppo,,Brassica rapa subsp. chinensis,"Brassica rapa var. chinensis (L.) Kitam., 1950",http://taxref.mnhn.fr/lod/taxon/639341,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_chinois,eppo,,Brassica rapa subsp. pekinensis,"Brassica rapa var. glabra Regel, 1860",http://taxref.mnhn.fr/lod/taxon/446630,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_chinois,eppo,,Brassica rapa subsp. pekinensis,"Brassica rapa var. glabra Regel, 1860",http://taxref.mnhn.fr/lod/taxon/446630,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_chinois,eppo,,Brassica rapa subsp. pekinensis,"Brassica rapa var. glabra Regel, 1860",http://taxref.mnhn.fr/lod/taxon/446630,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_communs,eppo,,Brassica oleracea var. medullosa,"Brassica oleracea var. medullosa Thell, 1918",http://taxref.mnhn.fr/lod/taxon/932474,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_communs,eppo,,Brassica oleracea var. medullosa,"Brassica oleracea var. medullosa Thell, 1918",http://taxref.mnhn.fr/lod/taxon/932474,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_communs,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_communs,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fleurs,eppo,,Brassica oleracea var. botrytis,"Brassica oleracea var. botrytis L., 1753",http://taxref.mnhn.fr/lod/taxon/446631,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. ramosa,"Brassica oleracea var. ramosa DC., 1821",http://taxref.mnhn.fr/lod/taxon/932466,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. medullosa,"Brassica oleracea var. medullosa Thell, 1918",http://taxref.mnhn.fr/lod/taxon/932474,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_fourragers,eppo,,Brassica oleracea var. medullosa,"Brassica oleracea var. medullosa Thell, 1918",http://taxref.mnhn.fr/lod/taxon/932474,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. sabellica,"Brassica oleracea var. sabellica L., 1753",http://taxref.mnhn.fr/lod/taxon/144393,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_frisés,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_navets,eppo,,Brassica oleracea var. gongylodes,"Brassica oleracea var. gongylodes L., 1753",http://taxref.mnhn.fr/lod/taxon/613662,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_navets,eppo,,Brassica oleracea var. gongylodes,"Brassica oleracea var. gongylodes L., 1753",http://taxref.mnhn.fr/lod/taxon/613662,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_navets_chair_jaune,eppo,,Brassica napus subsp. rapifera,"Brassica napus var. napobrassica (L.) Rchb., 1833",http://taxref.mnhn.fr/lod/taxon/144382,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_pommes,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_pommes,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_potagers,eppo,,Brassica oleracea,"Brassica oleracea L., 1753",http://taxref.mnhn.fr/lod/taxon/86406,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Choux_potagers,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_potagers,eppo,,Brassica oleracea var. capitata,"Brassica oleracea var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/144384,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_potagers,eppo,,Roystonea regia,"Roystonea regia (Kunth) O.F.Cook, 1900",http://taxref.mnhn.fr/lod/taxon/447772,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Choux_potagers,eppo,,Deckenia nobilis,"Deckenia nobilis H.Wendl. ex Seem., 1870",http://taxref.mnhn.fr/lod/taxon/770975,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Choux_raves,eppo,,Brassica oleracea var. gongylodes,"Brassica oleracea var. gongylodes L., 1753",http://taxref.mnhn.fr/lod/taxon/613662,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_raves,eppo,,Brassica oleracea var. gongylodes,"Brassica oleracea var. gongylodes L., 1753",http://taxref.mnhn.fr/lod/taxon/613662,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_verts,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Choux_verts,eppo,,Brassica oleracea var. viridis,"Brassica oleracea var. viridis L., 1753",http://taxref.mnhn.fr/lod/taxon/144394,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Christophines,eppo,,Sechium edule,"Sicyos edulis Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/636548,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Christophines,eppo,,Sechium edule,"Sicyos edulis Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/636548,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Christophines,eppo,,Sechium edule,"Sicyos edulis Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/636548,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Christophines,eppo,,Sechium edule,"Sicyos edulis Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/636548,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Christophines,eppo,,Sechium edule,"Sicyos edulis Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/636548,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboules,eppo,,Allium fistulosum,"Allium fistulosum L., 1753",http://taxref.mnhn.fr/lod/taxon/81373,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboules,eppo,,Allium fistulosum,"Allium fistulosum L., 1753",http://taxref.mnhn.fr/lod/taxon/81373,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboules,eppo,,Allium fistulosum,"Allium fistulosum L., 1753",http://taxref.mnhn.fr/lod/taxon/81373,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboules,eppo,,Allium fistulosum,"Allium fistulosum L., 1753",http://taxref.mnhn.fr/lod/taxon/81373,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboulettes,eppo,,Allium schoenoprasum,"Allium schoenoprasum L., 1753",http://taxref.mnhn.fr/lod/taxon/81508,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboulettes,eppo,,Allium schoenoprasum,"Allium schoenoprasum L., 1753",http://taxref.mnhn.fr/lod/taxon/81508,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Citronniers,eppo,,Citrus limon,"Citrus x limon (L.) Osbeck, 1765",http://taxref.mnhn.fr/lod/taxon/966788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Citronniers,eppo,,Citrus limon,"Citrus x limon (L.) Osbeck, 1765",http://taxref.mnhn.fr/lod/taxon/966788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Citrouilles,eppo,,Cucurbita maxima,"Cucurbita maxima Duchesne, 1786",http://taxref.mnhn.fr/lod/taxon/93550,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cognassiers,eppo,,Cydonia oblonga,"Cydonia oblonga Mill., 1768",http://taxref.mnhn.fr/lod/taxon/93734,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Colzas,eppo,,Brassica napus,"Brassica napus L., 1753",http://taxref.mnhn.fr/lod/taxon/86399,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Combavas,eppo,,Citrus hystrix,"Citrus hystrix DC., 1813",http://taxref.mnhn.fr/lod/taxon/445970,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Combavas,eppo,,Citrus hystrix,"Citrus hystrix DC., 1813",http://taxref.mnhn.fr/lod/taxon/445970,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Concombres,eppo,,Cucumis sativus,"Cucumis sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/93539,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Coquerets_du_Perou,eppo,,Physalis peruviana,"Physalis peruviana L., 1763",http://taxref.mnhn.fr/lod/taxon/113329,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Coquerets_du_Perou,eppo,,Physalis peruviana,"Nicandra physalodes (L.) Gaertn., 1791",http://taxref.mnhn.fr/lod/taxon/109600,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Coriandres,eppo,,Coriandrum sativum,"Coriandrum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/92465,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cornichons,eppo,,Cucumis sativus,"Cucumis sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/93539,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cornilles,eppo,,Vigna unguiculata subsp. sesquipedalis,"Vigna unguiculata subsp. sesquipedalis (L.) Verdc., 1970",http://taxref.mnhn.fr/lod/taxon/448658,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Cornilles,eppo,,Vigna unguiculata subsp. unguiculata,"Vigna unguiculata subsp. unguiculata (L.) Walp., 1842",http://taxref.mnhn.fr/lod/taxon/670690,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Cornilles,eppo,,Vigna unguiculata,"Vigna unguiculata (L.) Walp., 1842",http://taxref.mnhn.fr/lod/taxon/447217,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cornilles,eppo,,Vigna unguiculata,"Vigna unguiculata (L.) Walp., 1842",http://taxref.mnhn.fr/lod/taxon/447217,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Corossoliers,eppo,,Annona muricata,"Annona muricata L., 1753",http://taxref.mnhn.fr/lod/taxon/446899,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Courges,eppo,,Cucurbita pepo,"Cucurbita pepo L., 1753",http://taxref.mnhn.fr/lod/taxon/93555,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Courges,eppo,,Cucurbita moschata,"Cucurbita moschata Duchesne, 1786",http://taxref.mnhn.fr/lod/taxon/611694,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Courges_musquees,eppo,,Cucurbita moschata,"Cucurbita moschata Duchesne, 1786",http://taxref.mnhn.fr/lod/taxon/611694,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Crocus_cultives,eppo,,Crocus sativus,"Crocus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/93263,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Crocus_cultives,eppo,,Crocus sativus,"Crocus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/93263,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Crocus_cultives,eppo,,Crocus sativus,"Crocus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/93263,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Crosnes,eppo,,Stachys affinis,"Stachys affinis Bunge, 1833",http://taxref.mnhn.fr/lod/taxon/124736,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cumins,eppo,,Cuminum cyminum,"Cuminum cyminum L., 1753",http://taxref.mnhn.fr/lod/taxon/93564,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cumins,eppo,,Anethum graveolens,"Anethum graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/82692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Curcumas,eppo,,Maranta arundinacea,"Maranta arundinacea L., 1753",http://taxref.mnhn.fr/lod/taxon/447849,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Dactyles,eppo,,Dactylis glomerata,"Dactylis glomerata L., 1753",http://taxref.mnhn.fr/lod/taxon/94207,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Dactyles,eppo,,Dactylis glomerata,"Dactylis glomerata L., 1753",http://taxref.mnhn.fr/lod/taxon/94207,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Doliques_asperges,eppo,,Vigna unguiculata subsp. sesquipedalis,"Vigna unguiculata subsp. sesquipedalis (L.) Verdc., 1970",http://taxref.mnhn.fr/lod/taxon/448658,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Echalotes,eppo,,Allium ascalonicum,"Allium ascalonicum L., 1756",http://taxref.mnhn.fr/lod/taxon/456844,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Echalotes,eppo,,Allium ascalonicum,"Allium cepa L., 1753",http://taxref.mnhn.fr/lod/taxon/81339,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Echalotes,eppo,,Allium ascalonicum,"Allium oschaninii B.Fedtsch., 1906",http://taxref.mnhn.fr/lod/taxon/81460,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Echalotes,eppo,,Allium oschaninii,"Allium oschaninii B.Fedtsch., 1906",http://taxref.mnhn.fr/lod/taxon/81460,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Eglantiers,eppo,,Rosa canina,"Rosa canina L., 1753",http://taxref.mnhn.fr/lod/taxon/118073,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Eglantiers,eppo,,Rosa canina,"Rosa canina L., 1753",http://taxref.mnhn.fr/lod/taxon/118073,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Eglantiers,eppo,,Rosa canina,"Rosa canina L., 1753",http://taxref.mnhn.fr/lod/taxon/118073,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Eglantiers,eppo,,Rosa canina,"Rosa canina L., 1753",http://taxref.mnhn.fr/lod/taxon/118073,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Engrains,eppo,,Triticum monococcum,"Triticum monococcum L., 1753",http://taxref.mnhn.fr/lod/taxon/127771,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Engrains,eppo,,Triticum monococcum,"Triticum monococcum L., 1753",http://taxref.mnhn.fr/lod/taxon/127771,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Epeautres,eppo,,Triticum spelta,"Triticum aestivum subsp. spelta (L.) Thell., 1912",http://taxref.mnhn.fr/lod/taxon/141957,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Epeautres,eppo,,Triticum spelta,"Triticum aestivum subsp. spelta (L.) Thell., 1912",http://taxref.mnhn.fr/lod/taxon/141957,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Epinards,eppo,,Spinacia oleracea,"Spinacia oleracea L., 1753",http://taxref.mnhn.fr/lod/taxon/124617,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Erables_sycomores,eppo,,Acer pseudoplatanus,"Acer pseudoplatanus L., 1753",http://taxref.mnhn.fr/lod/taxon/79783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Erables_sycomores,eppo,,Acer pseudoplatanus,"Acer pseudoplatanus L., 1753",http://taxref.mnhn.fr/lod/taxon/79783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Estragons,eppo,,Artemisia dracunculus,"Artemisia dracunculus L., 1753",http://taxref.mnhn.fr/lod/taxon/83965,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenouils,eppo,,Foeniculum vulgare,"Foeniculum vulgare Mill., 1768",http://taxref.mnhn.fr/lod/taxon/98756,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenugrecs,eppo,,Trigonella foenum-graecum,"Trigonella foenum-graecum L., 1753",http://taxref.mnhn.fr/lod/taxon/127561,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenugrecs,eppo,,Trigonella foenum-graecum,"Trigonella foenum-graecum L., 1753",http://taxref.mnhn.fr/lod/taxon/127561,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenugrecs_engrais_verts,eppo,,Trigonella foenum-graecum,"Trigonella foenum-graecum L., 1753",http://taxref.mnhn.fr/lod/taxon/127561,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fetuques,eppo,,Lolium pratense,"Schedonorus pratensis (Huds.) P.Beauv., 1812",http://taxref.mnhn.fr/lod/taxon/121479,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fetuques,eppo,,Lolium pratense,"Lolium perenne L., 1753",http://taxref.mnhn.fr/lod/taxon/106499,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Feveroles,eppo,,Vicia faba subsp. minor,"Vicia faba var. minor Beck, 1892",http://taxref.mnhn.fr/lod/taxon/152447,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Feveroles,eppo,,Vicia faba subsp. minor,"Vicia faba var. minor Beck, 1892",http://taxref.mnhn.fr/lod/taxon/152447,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Feveroles_fourrageres,eppo,,Vicia faba subsp. minor,"Vicia faba var. minor Beck, 1892",http://taxref.mnhn.fr/lod/taxon/152447,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Feves,eppo,,Vicia faba,"Vicia faba L., 1753",http://taxref.mnhn.fr/lod/taxon/129171,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Feves_maraicheres,eppo,,Vicia faba,"Vicia faba L., 1753",http://taxref.mnhn.fr/lod/taxon/129171,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Figuiers,eppo,,Ficus carica,"Ficus carica L., 1753",http://taxref.mnhn.fr/lod/taxon/98653,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Framboisiers,eppo,,Rubus idaeus,"Rubus idaeus L., 1753",http://taxref.mnhn.fr/lod/taxon/119149,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gaillets,eppo,,Galium aparine,"Galium aparine L., 1753",http://taxref.mnhn.fr/lod/taxon/99373,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Genets_des_teinturiers,eppo,,Genista tinctoria,"Genista tinctoria L., 1753",http://taxref.mnhn.fr/lod/taxon/99828,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gentianes,eppo,,Gentiana lutea,"Gentiana lutea L., 1753",http://taxref.mnhn.fr/lod/taxon/99903,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gentianes,eppo,,Gentiana lutea,"Gentiana lutea L., 1753",http://taxref.mnhn.fr/lod/taxon/99903,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Geraniums,eppo,,Pelargonium x hortorum,Pelargonium x hortorum L.H.Bailey,http://taxref.mnhn.fr/lod/taxon/445701,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_fourrageres,eppo,,Lathyrus cicera,"Lathyrus cicera L., 1753",http://taxref.mnhn.fr/lod/taxon/105175,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_fourrageres,eppo,,Lathyrus sativus,"Lathyrus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/105256,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_fourrageres,eppo,,Lathyrus cicera,"Lathyrus cicera L., 1753",http://taxref.mnhn.fr/lod/taxon/105175,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_odorantes,eppo,,Lathyrus odoratus,"Lathyrus odoratus L., 1753",http://taxref.mnhn.fr/lod/taxon/105237,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_odorantes,eppo,,Lathyrus odoratus,"Lathyrus odoratus L., 1753",http://taxref.mnhn.fr/lod/taxon/105237,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_potageres,eppo,,Lathyrus sativus,"Lathyrus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/105256,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gesses_potageres,eppo,,Psophocarpus tetragonolobus,"Psophocarpus tetragonolobus (L.) DC., 1825",http://taxref.mnhn.fr/lod/taxon/447207,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ginkgos_biloba,eppo,,Ginkgo biloba,"Ginkgo biloba L., 1771",http://taxref.mnhn.fr/lod/taxon/100258,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gombos,eppo,,Abelmoschus esculentus,"Abelmoschus esculentus (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/447298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Gombos,eppo,,Abelmoschus esculentus,"Abelmoschus esculentus (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/447298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Goyaviers,eppo,,Psidium guajava,"Psidium guajava L., 1753",http://taxref.mnhn.fr/lod/taxon/447405,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Goyaviers_Chine,eppo,,Psidium longipes,Psidium longipes,http://taxref.mnhn.fr/lod/taxon/631072,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Grenadiers,eppo,,Punica granatum,"Punica granatum L., 1753",http://taxref.mnhn.fr/lod/taxon/447462,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Grenadilles,eppo,,Passiflora edulis,"Passiflora edulis Sims, 1818",http://taxref.mnhn.fr/lod/taxon/445877,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Grenadilles,eppo,,Passiflora edulis,"Passiflora edulis Sims, 1818",http://taxref.mnhn.fr/lod/taxon/445877,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Grenadilles,eppo,,Passiflora edulis f. flavicarpa,"Passiflora edulis f. flavicarpa O.Deg., 1946",http://taxref.mnhn.fr/lod/taxon/631005,http://taxref.mnhn.fr/lod/taxrank/Forma
+http://ontology.inrae.fr/frenchcropusage/Haricots,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_Espagne,eppo,,Phaseolus coccineus,"Phaseolus coccineus L., 1753",http://taxref.mnhn.fr/lod/taxon/113062,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_Espagne,eppo,,Phaseolus coccineus,"Phaseolus coccineus L., 1753",http://taxref.mnhn.fr/lod/taxon/113062,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_Espagne,eppo,,Phaseolus coccineus,"Phaseolus coccineus L., 1753",http://taxref.mnhn.fr/lod/taxon/113062,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_demi_sec,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_sabres,eppo,,Canavalia ensiformis,"Canavalia ensiformis (L.) DC., 1825",http://taxref.mnhn.fr/lod/taxon/447161,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_verts,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_verts,eppo,,Phaseolus vulgaris,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Helichryse_Italie,eppo,,Xerochrysum bracteatum,"Helichrysum bracteatum (Vent.) Andrews, 1805",http://taxref.mnhn.fr/lod/taxon/101068,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hellebores_noirs,eppo,,Helleborus niger,"Helleborus niger L., 1753",http://taxref.mnhn.fr/lod/taxon/101196,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hellebores_noirs,eppo,,Euphorbia pulcherrima,"Euphorbia pulcherrima Willd. ex Klotzsch, 1834",http://taxref.mnhn.fr/lod/taxon/445632,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hetres,eppo,,Fagus sylvatica,"Fagus sylvatica L., 1753",http://taxref.mnhn.fr/lod/taxon/97947,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hetres,eppo,,Fagus sylvatica,"Fagus sylvatica L., 1753",http://taxref.mnhn.fr/lod/taxon/97947,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hibiscus,eppo,,Hibiscus trionum,"Hibiscus trionum L., 1753",http://taxref.mnhn.fr/lod/taxon/101546,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Hibiscus_ornemental,eppo,,Hibiscus rosa-sinensis,"Hibiscus rosa-sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/101541,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Houblons,eppo,,Humulus lupulus,"Humulus lupulus L., 1753",http://taxref.mnhn.fr/lod/taxon/103031,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Houblons,eppo,,Humulus lupulus,"Humulus lupulus L., 1753",http://taxref.mnhn.fr/lod/taxon/103031,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Houblons,eppo,,Humulus lupulus,"Humulus lupulus L., 1753",http://taxref.mnhn.fr/lod/taxon/103031,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Houblons,eppo,,Smilax anceps,"Smilax anceps Willd., 1806",http://taxref.mnhn.fr/lod/taxon/706815,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Houblons,eppo,,Humulus lupulus,"Humulus lupulus L., 1753",http://taxref.mnhn.fr/lod/taxon/103031,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Laitues,eppo,,Lactuca sativa,"Lactuca sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/104771,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Laitues_couper,eppo,,Lactuca sativa var. crispa,"Lactuca sativa var. crispa L., 1753",http://taxref.mnhn.fr/lod/taxon/148028,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Laitues_couper,eppo,,Lactuca sativa var. crispa,"Lactuca sativa var. crispa L., 1753",http://taxref.mnhn.fr/lod/taxon/148028,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Laitues_pommees,eppo,,Lactuca sativa var. capitata,"Lactuca sativa var. capitata L., 1753",http://taxref.mnhn.fr/lod/taxon/448641,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Laitues_romaines,eppo,,Lactuca sativa var. longifolia,"Lactuca sativa var. longifolia Lam., 1792",http://taxref.mnhn.fr/lod/taxon/710403,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Lauriers_aromates,eppo,,Laurus nobilis,"Laurus nobilis L., 1753",http://taxref.mnhn.fr/lod/taxon/105295,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lauriers_ornementaux,eppo,,Viburnum tinus,"Viburnum tinus L., 1753",http://taxref.mnhn.fr/lod/taxon/129092,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lauriers_ornementaux,eppo,,Prunus laurocerasus,"Prunus laurocerasus L., 1753",http://taxref.mnhn.fr/lod/taxon/116089,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lavandins,eppo,,Lavandula x intermedia,"Lavandula x intermedia Emeric ex Loisel., 1828",http://taxref.mnhn.fr/lod/taxon/105330,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lentilles,eppo,,Lens culinaris,"Vicia lens (L.) Coss. & Germ., 1845",http://taxref.mnhn.fr/lod/taxon/129211,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lentilles,eppo,,Lens culinaris,"Vicia lens (L.) Coss. & Germ., 1845",http://taxref.mnhn.fr/lod/taxon/129211,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lentilles,eppo,,Lens culinaris,"Vicia lens (L.) Coss. & Germ., 1845",http://taxref.mnhn.fr/lod/taxon/129211,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lentilles_fourrageres,eppo,,Lens nigricans,"Vicia nigricans (M.Bieb.) Coss. & Germ., 1861",http://taxref.mnhn.fr/lod/taxon/129255,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Limettiers,eppo,,Citrus aurantiifolia,"Citrus x aurantiifolia (Christm.) Swingle, 1913",http://taxref.mnhn.fr/lod/taxon/966886,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Limettiers,eppo,,Citrus aurantiifolia,"Citrus x aurantiifolia (Christm.) Swingle, 1913",http://taxref.mnhn.fr/lod/taxon/966886,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Limettiers,eppo,,Citrus aurantiifolia,"Citrus x aurantiifolia (Christm.) Swingle, 1913",http://taxref.mnhn.fr/lod/taxon/966886,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Limettiers,eppo,,Citrus limetta,"Citrus x limon var. limetta (Risso) Ollitrault, Curk & Krueger, 2020",http://taxref.mnhn.fr/lod/taxon/971687,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Lins,eppo,,Linum usitatissimum,"Linum usitatissimum L., 1753",http://taxref.mnhn.fr/lod/taxon/106349,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lins,eppo,,Linum usitatissimum,"Linum usitatissimum L., 1753",http://taxref.mnhn.fr/lod/taxon/106349,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Litchis,eppo,,Litchi chinensis,"Litchi chinensis Sonn., 1782",http://taxref.mnhn.fr/lod/taxon/447593,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Litchis,eppo,,Litchi chinensis,"Litchi chinensis Sonn., 1782",http://taxref.mnhn.fr/lod/taxon/447593,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Liveches,eppo,,Levisticum officinale,"Levisticum officinale W.D.J.Koch, 1824",http://taxref.mnhn.fr/lod/taxon/105857,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Liveches,eppo,,Levisticum officinale,"Levisticum officinale W.D.J.Koch, 1824",http://taxref.mnhn.fr/lod/taxon/105857,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Liveches,eppo,,Levisticum officinale,"Levisticum officinale W.D.J.Koch, 1824",http://taxref.mnhn.fr/lod/taxon/105857,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Longaniers,eppo,,Dimocarpus longan,"Dimocarpus longan Lour., 1790",http://taxref.mnhn.fr/lod/taxon/447590,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Longaniers,eppo,,Dimocarpus longan,"Dimocarpus longan Lour., 1790",http://taxref.mnhn.fr/lod/taxon/447590,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Longaniers,eppo,,Dimocarpus longan,"Dimocarpus longan Lour., 1790",http://taxref.mnhn.fr/lod/taxon/447590,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lotiers,eppo,,Lotus corniculatus,"Lotus corniculatus L., 1753",http://taxref.mnhn.fr/lod/taxon/106653,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lotiers,eppo,,Lotus pedunculatus,"Lotus pedunculatus Cav., 1793",http://taxref.mnhn.fr/lod/taxon/106698,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins,eppo,,Lupinus micranthus,"Lupinus micranthus Guss., 1828",http://taxref.mnhn.fr/lod/taxon/106784,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_engrais_verts,eppo,,Lupinus albus,"Lupinus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/106765,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_engrais_verts,eppo,,Lupinus angustifolius,"Lupinus angustifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/106766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_engrais_verts,eppo,,Lupinus luteus,"Lupinus luteus L., 1753",http://taxref.mnhn.fr/lod/taxon/106780,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_fourragers,eppo,,Lupinus angustifolius,"Lupinus angustifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/106766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux,eppo,,Lupinus angustifolius,"Lupinus angustifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/106766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux,eppo,,Lupinus luteus,"Lupinus luteus L., 1753",http://taxref.mnhn.fr/lod/taxon/106780,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux,eppo,,Lupinus angustifolius,"Lupinus angustifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/106766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs,eppo,,Lupinus albus,"Lupinus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/106765,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupulines,eppo,,Medicago lupulina,"Medicago lupulina L., 1753",http://taxref.mnhn.fr/lod/taxon/107649,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupulines,eppo,,Medicago lupulina,"Medicago lupulina L., 1753",http://taxref.mnhn.fr/lod/taxon/107649,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupulines,eppo,,Medicago lupulina,"Medicago lupulina L., 1753",http://taxref.mnhn.fr/lod/taxon/107649,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupulines,eppo,,Trifolium dubium,"Trifolium dubium Sibth., 1794",http://taxref.mnhn.fr/lod/taxon/127294,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Luzernes,eppo,,Medicago sativa,"Medicago sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/107711,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Luzernes,eppo,,Medicago sativa,"Medicago sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/107711,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Luzernes,eppo,,Medicago sativa,"Medicago sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/107711,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Suaeda maritima,"Suaeda maritima (L.) Dumort., 1827",http://taxref.mnhn.fr/lod/taxon/125259,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Capsella bursa-pastoris,"Capsella bursa-pastoris (L.) Medik., 1792",http://taxref.mnhn.fr/lod/taxon/87849,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Valerianella eriocarpa,"Valerianella eriocarpa Desv., 1809",http://taxref.mnhn.fr/lod/taxon/128470,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Valerianella eriocarpa,"Valerianella eriocarpa Desv., 1809",http://taxref.mnhn.fr/lod/taxon/128470,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Asarum europaeum,"Asarum europaeum L., 1753",http://taxref.mnhn.fr/lod/taxon/84230,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,eppo,,Campanula rapunculus,"Campanula rapunculus L., 1753",http://taxref.mnhn.fr/lod/taxon/87712,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mais,eppo,,Zea mays,"Zea mays L., 1753",http://taxref.mnhn.fr/lod/taxon/130621,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mandariniers,eppo,,Citrus reticulata,"Citrus reticulata Blanco, 1837",http://taxref.mnhn.fr/lod/taxon/91812,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mandariniers,eppo,,Citrus reticulata,"Citrus reticulata Blanco, 1837",http://taxref.mnhn.fr/lod/taxon/91812,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mangoustaniers,eppo,,Garcinia mangostana,"Garcinia mangostana L., 1753",http://taxref.mnhn.fr/lod/taxon/447083,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mangoustaniers,eppo,,Garcinia mangostana,"Garcinia mangostana L., 1753",http://taxref.mnhn.fr/lod/taxon/447083,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Manguiers,eppo,,Mangifera indica,"Mangifera indica L., 1753",http://taxref.mnhn.fr/lod/taxon/446894,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Manguiers,eppo,,Mangifera indica,"Mangifera indica L., 1753",http://taxref.mnhn.fr/lod/taxon/446894,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maniocs,eppo,,Manihot esculenta,"Manihot esculenta Crantz, 1766",http://taxref.mnhn.fr/lod/taxon/447153,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Marguerites,eppo,,Argyranthemum frutescens,"Argyranthemum frutescens (L.) Sch.Bip., 1844",http://taxref.mnhn.fr/lod/taxon/83719,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Marguerites,eppo,,Leucanthemum vulgare,"Leucanthemum vulgare Lam., 1779",http://taxref.mnhn.fr/lod/taxon/105817,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Marjolaines,eppo,,Origanum vulgare,"Origanum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/111289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mauves,eppo,,Malva sylvestris,"Malva sylvestris L., 1753",http://taxref.mnhn.fr/lod/taxon/107318,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mauves,eppo,,Abutilon hulseanum,"Abutilon hulseanum (Torr. & A.Gray) Torr. ex A.Gray, 1849",http://taxref.mnhn.fr/lod/taxon/628989,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mauves,eppo,,Malva sylvestris,"Malva sylvestris L., 1753",http://taxref.mnhn.fr/lod/taxon/107318,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mauves,eppo,,Malva sylvestris,"Malva sylvestris L., 1753",http://taxref.mnhn.fr/lod/taxon/107318,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Plantago sempervirens,"Plantago sempervirens Crantz, 1766",http://taxref.mnhn.fr/lod/taxon/113957,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus albus,"Melilotus albus Medik., 1787",http://taxref.mnhn.fr/lod/taxon/107886,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Trifolium dubium,"Trifolium dubium Sibth., 1794",http://taxref.mnhn.fr/lod/taxon/127294,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus albus,"Melilotus albus Medik., 1787",http://taxref.mnhn.fr/lod/taxon/107886,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_jaunes_engrais_verts,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_jaunes_engrais_verts,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_jaunes_engrais_verts,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_jaunes_engrais_verts,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_officinales,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_officinales,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_officinales,eppo,,Melilotus officinalis,"Melilotus officinalis (L.) Lam., 1779",http://taxref.mnhn.fr/lod/taxon/107942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melilots_officinales,eppo,,Melilotus officinalis,"Melilotus altissimus Thuill., 1799",http://taxref.mnhn.fr/lod/taxon/107887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melisses,eppo,,Melissa officinalis,"Melissa officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/107992,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melons,eppo,,Cucumis melo,"Cucumis melo L., 1753",http://taxref.mnhn.fr/lod/taxon/93535,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Menthes,eppo,,Mentha x piperita,"Mentha x piperita L., 1753",http://taxref.mnhn.fr/lod/taxon/108295,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Menthes,eppo,,Mentha spicata,"Mentha spicata L., 1753",http://taxref.mnhn.fr/lod/taxon/108166,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millepertuis,eppo,,Hypericum perforatum,"Hypericum perforatum L., 1753",http://taxref.mnhn.fr/lod/taxon/103316,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millepertuis,eppo,,Hypericum perforatum,"Hypericum perforatum L., 1753",http://taxref.mnhn.fr/lod/taxon/103316,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millepertuis,eppo,,Hypericum perforatum,"Hypericum perforatum L., 1753",http://taxref.mnhn.fr/lod/taxon/103316,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Panicum miliaceum,"Panicum miliaceum L., 1753",http://taxref.mnhn.fr/lod/taxon/112195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Panicum miliaceum,"Panicum dichotomiflorum Michx., 1803",http://taxref.mnhn.fr/lod/taxon/112130,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Sorghum bicolor,"Sorghum bicolor (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/124369,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Panicum miliaceum,"Panicum miliaceum L., 1753",http://taxref.mnhn.fr/lod/taxon/112195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Panicum miliaceum,"Panicum dichotomiflorum Michx., 1803",http://taxref.mnhn.fr/lod/taxon/112130,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Pennisetum glaucum,"Cenchrus americanus (L.) Morrone, 2010",http://taxref.mnhn.fr/lod/taxon/717119,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Millets,eppo,,Setaria italica,"Setaria italica (L.) P.Beauv., 1812",http://taxref.mnhn.fr/lod/taxon/123122,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Miscanthus_industriels,eppo,,Cenchrus purpureus,"Cenchrus purpureus (Schumach.) Morrone, 2010",http://taxref.mnhn.fr/lod/taxon/780429,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Miscanthus_industriels,eppo,,Miscanthus floridulus,"Miscanthus floridulus (Labill.) Warb. ex K.Schum. & Lauterb., 1901",http://taxref.mnhn.fr/lod/taxon/446314,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Miscanthus_industriels,eppo,,Miscanthus x giganteus,"Miscanthus x giganteus J.M.Greef & Deuter ex Hodk. & Renvoize, 2001",http://taxref.mnhn.fr/lod/taxon/717315,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mohas_fourragers,eppo,,Panicum miliaceum,"Panicum miliaceum L., 1753",http://taxref.mnhn.fr/lod/taxon/112195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mohas_fourragers,eppo,,Panicum miliaceum,"Panicum dichotomiflorum Michx., 1803",http://taxref.mnhn.fr/lod/taxon/112130,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Moutardes_brunes,eppo,,Brassica juncea,"Brassica juncea (L.) Czern., 1859",http://taxref.mnhn.fr/lod/taxon/86383,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Moutardes_noires,eppo,,Brassica nigra,"Brassica nigra (L.) W.D.J.Koch, 1833",http://taxref.mnhn.fr/lod/taxon/86400,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Muriers,eppo,,Morus nigra,"Morus nigra L., 1753",http://taxref.mnhn.fr/lod/taxon/108822,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Muriers,eppo,,Morus alba,"Morus alba L., 1753",http://taxref.mnhn.fr/lod/taxon/108810,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Muriers,eppo,,Morus nigra,"Morus nigra L., 1753",http://taxref.mnhn.fr/lod/taxon/108822,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Myrtilles,eppo,,Vaccinium myrtillus,"Vaccinium myrtillus L., 1753",http://taxref.mnhn.fr/lod/taxon/128345,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Navets,eppo,,Brassica rapa,"Brassica rapa L., 1753",http://taxref.mnhn.fr/lod/taxon/86423,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Navets,eppo,,Brassica rapa,"Brassica rapa L., 1753",http://taxref.mnhn.fr/lod/taxon/86423,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Navets_fourragers,eppo,,Brassica napus subsp. rapifera,"Brassica napus var. napobrassica (L.) Rchb., 1833",http://taxref.mnhn.fr/lod/taxon/144382,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Navettes,eppo,,Brassica rapa subsp. oleifera,"Brassica rapa var. oleifera DC., 1821",http://taxref.mnhn.fr/lod/taxon/144396,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Nefliers_du_Japon,eppo,,Eriobotrya japonica,"Eriobotrya japonica (Thunb.) Lindl., 1821",http://taxref.mnhn.fr/lod/taxon/96836,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Nefliers_du_Japon,eppo,,Eriobotrya japonica,"Eriobotrya japonica (Thunb.) Lindl., 1821",http://taxref.mnhn.fr/lod/taxon/96836,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Nigers,eppo,,Guizotia abyssinica,"Guizotia abyssinica (L.f.) Cass., 1829",http://taxref.mnhn.fr/lod/taxon/100596,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Nigers_engrais_verts,eppo,,Guizotia abyssinica,"Guizotia abyssinica (L.f.) Cass., 1829",http://taxref.mnhn.fr/lod/taxon/100596,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Nigers_engrais_verts,eppo,,Guizotia abyssinica,"Guizotia abyssinica (L.f.) Cass., 1829",http://taxref.mnhn.fr/lod/taxon/100596,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Nigers_engrais_verts,eppo,,Guizotia abyssinica,"Guizotia abyssinica (L.f.) Cass., 1829",http://taxref.mnhn.fr/lod/taxon/100596,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Noisetiers,eppo,,Corylus avellana,"Corylus avellana L., 1753",http://taxref.mnhn.fr/lod/taxon/92606,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Noisetiers,eppo,,Corylus avellana,"Corylus avellana L., 1753",http://taxref.mnhn.fr/lod/taxon/92606,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Noyers,eppo,,Juglans regia,"Juglans regia L., 1753",http://taxref.mnhn.fr/lod/taxon/104076,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oeillettes,eppo,,Papaver somniferum,"Papaver somniferum L., 1753",http://taxref.mnhn.fr/lod/taxon/112364,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oignons,eppo,,Allium cepa,"Allium cepa L., 1753",http://taxref.mnhn.fr/lod/taxon/81339,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oliviers,eppo,,Olea europaea,"Olea europaea L., 1753",http://taxref.mnhn.fr/lod/taxon/110002,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oliviers_fruits_noyaux,eppo,,Olea europaea,"Olea europaea L., 1753",http://taxref.mnhn.fr/lod/taxon/110002,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orangers,eppo,,Citrus aurantium,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Orangers,eppo,,Citrus aurantium,"Citrus x aurantium L., 1753",http://taxref.mnhn.fr/lod/taxon/966887,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orangers,eppo,,Citrus sinensis,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Orangers,eppo,,Citrus sinensis,"Citrus x aurantium var. sinensis L., 1753",http://taxref.mnhn.fr/lod/taxon/971672,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Orangers,eppo,,Cornus sanguinea,"Cornus sanguinea L., 1753",http://taxref.mnhn.fr/lod/taxon/92501,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orangers_du_Mexique,eppo,,Choisya ternata,"Choisya ternata Kunth, 1823",http://taxref.mnhn.fr/lod/taxon/90939,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orges_deux_rangs,eppo,,Hordeum distichon,"Hordeum vulgare subsp. distichon (L.) Körn., 1882",http://taxref.mnhn.fr/lod/taxon/718237,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Orges_six_rangs,eppo,,Hordeum vulgare,"Hordeum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/102999,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Origans,eppo,,Origanum vulgare,"Origanum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/111289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Origans,eppo,,Origanum vulgare,"Origanum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/111289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Origans,eppo,,Origanum vulgare,"Origanum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/111289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Origans,eppo,,Origanum vulgare,"Origanum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/111289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orties,eppo,,Boehmeria stipularis,"Boehmeria grandis (Hook. & Arn.) A.Heller, 1897",http://taxref.mnhn.fr/lod/taxon/994112,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orties,eppo,,Urtica dioica,"Urtica dioica L., 1753",http://taxref.mnhn.fr/lod/taxon/128268,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orties,eppo,,Urtica dioica,"Urtica dioica L., 1753",http://taxref.mnhn.fr/lod/taxon/128268,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orties,eppo,,Urtica urens,"Urtica urens L., 1753",http://taxref.mnhn.fr/lod/taxon/128298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Palmiers,eppo,,Euterpe edulis,"Euterpe edulis Mart., 1823",http://taxref.mnhn.fr/lod/taxon/629716,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Panais,eppo,,Pastinaca sativa,"Pastinaca sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/112550,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Papayers,eppo,,Carica papaya,"Carica papaya L., 1753",http://taxref.mnhn.fr/lod/taxon/447069,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Paquerettes,eppo,,Bellis perennis,"Bellis perennis L., 1753",http://taxref.mnhn.fr/lod/taxon/85740,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Paquerettes,eppo,,Bellis perennis,"Bellis perennis L., 1753",http://taxref.mnhn.fr/lod/taxon/85740,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Passiflores_ornementaux,eppo,,Passiflora caerulea,"Passiflora caerulea L., 1753",http://taxref.mnhn.fr/lod/taxon/112536,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pasteques,eppo,,Citrullus lanatus,"Citrullus lanatus (Thunb.) Matsum. & Nakai, 1916",http://taxref.mnhn.fr/lod/taxon/91800,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pasteques,eppo,,Citrullus lanatus,"Citrullus lanatus (Thunb.) Matsum. & Nakai, 1916",http://taxref.mnhn.fr/lod/taxon/91800,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Patates_douces,eppo,,Ipomoea batatas,"Ipomoea batatas (L.) Lam., 1793",http://taxref.mnhn.fr/lod/taxon/445573,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Patates_douces,eppo,,Ipomoea batatas,"Ipomoea batatas (L.) Lam., 1793",http://taxref.mnhn.fr/lod/taxon/445573,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Patissons,eppo,,Fritillaria imperialis,"Fritillaria imperialis L., 1753",http://taxref.mnhn.fr/lod/taxon/98970,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Patissons,eppo,,Cucurbita melopepo,"Cucurbita pepo L., 1753",http://taxref.mnhn.fr/lod/taxon/93555,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pavots_officinales,eppo,,Papaver somniferum,"Papaver somniferum L., 1753",http://taxref.mnhn.fr/lod/taxon/112364,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pavots_officinales,eppo,,Papaver somniferum,"Papaver somniferum L., 1753",http://taxref.mnhn.fr/lod/taxon/112364,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pavots_officinales,eppo,,Papaver somniferum,"Papaver somniferum L., 1753",http://taxref.mnhn.fr/lod/taxon/112364,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pechers,eppo,,Prunus persica var. nucipersica,"Prunus persica (L.) Batsch, 1801",http://taxref.mnhn.fr/lod/taxon/116112,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pechers,eppo,,Prunus persica var. nucipersica,"Prunus persica (L.) Batsch, 1801",http://taxref.mnhn.fr/lod/taxon/116112,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pechers,eppo,,Aesculus pavia,"Aesculus pavia L., 1753",http://taxref.mnhn.fr/lod/taxon/80335,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pechers,eppo,,Prunus persica,"Prunus persica (L.) Batsch, 1801",http://taxref.mnhn.fr/lod/taxon/116112,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pensees,eppo,,Viola odorata,"Viola odorata L., 1753",http://taxref.mnhn.fr/lod/taxon/129632,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Persils,eppo,,Petroselinum crispum,"Petroselinum crispum (Mill.) Fuss, 1866",http://taxref.mnhn.fr/lod/taxon/112821,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Persils,eppo,,Petroselinum crispum,"Petroselinum crispum (Mill.) Fuss, 1866",http://taxref.mnhn.fr/lod/taxon/112821,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Persils,eppo,,Petroselinum crispum,"Petroselinum crispum (Mill.) Fuss, 1866",http://taxref.mnhn.fr/lod/taxon/112821,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Persils,eppo,,Petroselinum crispum,"Petroselinum crispum (Mill.) Fuss, 1866",http://taxref.mnhn.fr/lod/taxon/112821,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Persils,eppo,,Petroselinum crispum var. crispum,"Petroselinum crispum subsp. crispum (Mill.) Fuss, 1866",http://taxref.mnhn.fr/lod/taxon/612611,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Phacelies,eppo,,Phacelia tanacetifolia,"Phacelia tanacetifolia Benth., 1837",http://taxref.mnhn.fr/lod/taxon/112915,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Piments,eppo,,Capsicum annuum,"Capsicum annuum L., 1753",http://taxref.mnhn.fr/lod/taxon/87873,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pissenlits,eppo,,Taraxacum officinale,"Taraxacum officinale F.H.Wigg., 1780",http://taxref.mnhn.fr/lod/taxon/717630,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pissenlits,eppo,,Taraxacum officinale,"Taraxacum officinale F.H.Wigg., 1780",http://taxref.mnhn.fr/lod/taxon/717630,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pistachiers,eppo,,Pistacia vera,"Pistacia vera L., 1753",http://taxref.mnhn.fr/lod/taxon/113750,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pistachiers,eppo,,Pistacia vera,"Pistacia vera L., 1753",http://taxref.mnhn.fr/lod/taxon/113750,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Plantains_puciers,eppo,,Plantago afra,"Plantago afra L., 1762",http://taxref.mnhn.fr/lod/taxon/113804,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Plaqueminiers,eppo,,Diospyros kaki,"Diospyros kaki L.f., 1782",http://taxref.mnhn.fr/lod/taxon/95047,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Plaqueminiers,eppo,,Diospyros lotus,"Diospyros lotus L., 1753",http://taxref.mnhn.fr/lod/taxon/95048,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poinsettias,eppo,,Euphorbia pulcherrima,"Euphorbia pulcherrima Willd. ex Klotzsch, 1834",http://taxref.mnhn.fr/lod/taxon/445632,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poinsettias,eppo,,Euphorbia pulcherrima,"Euphorbia pulcherrima Willd. ex Klotzsch, 1834",http://taxref.mnhn.fr/lod/taxon/445632,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poireaux,eppo,,Allium porrum,"Allium porrum L., 1753",http://taxref.mnhn.fr/lod/taxon/81483,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poirees,eppo,,Beta macrocarpa,"Beta macrocarpa Guss., 1827",http://taxref.mnhn.fr/lod/taxon/85811,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poiriers,eppo,,Pyrus communis,"Pyrus communis L., 1753",http://taxref.mnhn.fr/lod/taxon/116574,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poiriers,eppo,,Pyrus communis,"Pyrus communis subsp. pyraster (L.) Ehrh., 1780",http://taxref.mnhn.fr/lod/taxon/139545,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Pois,eppo,,Pisum sativum,"Pisum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/113778,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_chiches,eppo,,Cicer arietinum,"Cicer arietinum L., 1753",http://taxref.mnhn.fr/lod/taxon/91136,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_fourragers,eppo,,Pisum sativum subsp. arvense,"Pisum sativum subsp. sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/138869,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Pois_potagers,eppo,,Pisum sativum,"Pisum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/113778,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poivrons,eppo,,Capsicum annuum,"Capsicum annuum L., 1753",http://taxref.mnhn.fr/lod/taxon/87873,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pomelos,eppo,,Citrus maxima,"Citrus maxima (Burm.) Merr., 1917",http://taxref.mnhn.fr/lod/taxon/160289,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pommes_de_terre,eppo,,Solanum tuberosum,"Solanum tuberosum L., 1753",http://taxref.mnhn.fr/lod/taxon/124125,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pommiers,eppo,,Malus domestica,"Malus domestica Borkh., 1803 [nom. cons.]",http://taxref.mnhn.fr/lod/taxon/107207,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Potirons,eppo,,Cucurbita maxima,"Cucurbita maxima Duchesne, 1786",http://taxref.mnhn.fr/lod/taxon/93550,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pourpiers_maraichers,eppo,,Portulaca oleracea,"Portulaca oleracea L., 1753",http://taxref.mnhn.fr/lod/taxon/115215,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pourpiers_maraichers,eppo,,Portulaca oleracea,"Portulaca trituberculata Danin, Domina & Raimondo, 2008",http://taxref.mnhn.fr/lod/taxon/717436,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Primeveres,eppo,,Primula vulgaris,"Primula vulgaris Huds., 1762",http://taxref.mnhn.fr/lod/taxon/115925,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,eppo,,Prunus domestica subsp. syriaca,"Prunus x cerea (L.) Ehrh., 1792",http://taxref.mnhn.fr/lod/taxon/116158,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,eppo,,Prunus domestica subsp. syriaca,"Prunus x cerea (L.) Ehrh., 1792",http://taxref.mnhn.fr/lod/taxon/116158,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,eppo,,Prunus domestica,"Prunus domestica L., 1753",http://taxref.mnhn.fr/lod/taxon/116067,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,eppo,,Prunus domestica,"Prunus domestica L., 1753",http://taxref.mnhn.fr/lod/taxon/116067,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,eppo,,Prunus domestica subsp. italica,"Prunus domestica var. insititia (L.) Fiori & Paol., 1898",http://taxref.mnhn.fr/lod/taxon/965160,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Quenettiers,eppo,,Melicoccus bijugatus,"Melicoccus bijugatus Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/447595,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Quenettiers,eppo,,Melissa officinalis,"Melissa officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/107992,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Quenettiers,eppo,,Melicoccus bijugatus,"Melicoccus bijugatus Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/447595,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Quenettiers,eppo,,Melicoccus bijugatus,"Melicoccus bijugatus Jacq., 1760",http://taxref.mnhn.fr/lod/taxon/447595,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Quinoas,eppo,,Chenopodium quinoa,"Chenopodium quinoa Willd., 1798",http://taxref.mnhn.fr/lod/taxon/160222,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Radis,eppo,,Raphanus sativus,"Raphanus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/117355,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Radis_noirs_potagers,eppo,,Raphanus sativus var. niger,"Raphanus sativus var. niger (Mill.) J.Kern., 1789",http://taxref.mnhn.fr/lod/taxon/613588,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Radis_noirs_potagers,eppo,,Raphanus sativus var. niger,"Raphanus sativus var. niger (Mill.) J.Kern., 1789",http://taxref.mnhn.fr/lod/taxon/613588,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Radis_noirs_potagers,eppo,,Raphanus sativus var. niger,"Raphanus sativus var. niger (Mill.) J.Kern., 1789",http://taxref.mnhn.fr/lod/taxon/613588,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Radis_noirs_potagers,eppo,,Raphanus sativus var. niger,"Raphanus sativus var. niger (Mill.) J.Kern., 1789",http://taxref.mnhn.fr/lod/taxon/613588,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Raiforts,eppo,,Armoracia rusticana,"Armoracia rusticana G.Gaertn., B.Mey. & Scherb., 1800",http://taxref.mnhn.fr/lod/taxon/83866,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Raiforts,eppo,,Cochlearia officinalis,"Cochlearia officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/92052,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Raiforts,eppo,,Cochlearia officinalis,"Cochlearia officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/92052,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Raiforts,eppo,,Armoracia rusticana,"Armoracia rusticana G.Gaertn., B.Mey. & Scherb., 1800",http://taxref.mnhn.fr/lod/taxon/83866,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Raiforts,eppo,,Raphanus raphanistrum,"Raphanus raphanistrum L., 1753",http://taxref.mnhn.fr/lod/taxon/117353,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ramboutans,eppo,,Nephelium lappaceum,"Nephelium lappaceum L., 1767",http://taxref.mnhn.fr/lod/taxon/447596,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass,eppo,,Lolium perenne,"Lolium perenne L., 1753",http://taxref.mnhn.fr/lod/taxon/106499,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_anglais,eppo,,Lolium perenne,"Lolium perenne L., 1753",http://taxref.mnhn.fr/lod/taxon/106499,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_anglais,eppo,,Lolium perenne,"Lolium perenne L., 1753",http://taxref.mnhn.fr/lod/taxon/106499,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_italie,eppo,,Lolium multiflorum,"Lolium multiflorum Lam., 1779",http://taxref.mnhn.fr/lod/taxon/106497,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_italie,eppo,,Lolium multiflorum,"Lolium temulentum L., 1753",http://taxref.mnhn.fr/lod/taxon/106517,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_italie,eppo,,Lolium multiflorum,"Lolium multiflorum Lam., 1779",http://taxref.mnhn.fr/lod/taxon/106497,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ray_grass_italie,eppo,,Lolium multiflorum,"Lolium temulentum L., 1753",http://taxref.mnhn.fr/lod/taxon/106517,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Renoncules_cultivees,eppo,,Ranunculus asiaticus,"Ranunculus asiaticus L., 1753",http://taxref.mnhn.fr/lod/taxon/717442,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ricins,eppo,,Ricinus communis,"Ricinus communis L., 1753",http://taxref.mnhn.fr/lod/taxon/117806,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Riz,eppo,,Oryza sativa,"Oryza sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/111793,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Romarins,eppo,,Salvia rosmarinus,"Rosmarinus officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/118865,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ronces,eppo,,Morus nigra,"Morus nigra L., 1753",http://taxref.mnhn.fr/lod/taxon/108822,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ronces,eppo,,Rubus fruticosus,"Rubus fruticosus L., 1753",http://taxref.mnhn.fr/lod/taxon/119097,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ronces,eppo,,Rubus fruticosus,"Rubus montanus Lib. ex Lej., 1813",http://taxref.mnhn.fr/lod/taxon/119220,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ronces,eppo,,Rubus fruticosus,"Rubus fruticosus L., 1753",http://taxref.mnhn.fr/lod/taxon/119097,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ronces,eppo,,Rubus fruticosus,"Rubus montanus Lib. ex Lej., 1813",http://taxref.mnhn.fr/lod/taxon/119220,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Roquettes,eppo,,Eruca vesicaria,"Eruca vesicaria (L.) Cav., 1802",http://taxref.mnhn.fr/lod/taxon/97041,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Rosiers,eppo,,Rosa canina,"Rosa canina L., 1753",http://taxref.mnhn.fr/lod/taxon/118073,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sainfoins,eppo,,Onobrychis viciifolia,"Onobrychis viciifolia Scop., 1772",http://taxref.mnhn.fr/lod/taxon/110139,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sainfoins,eppo,,Onobrychis viciifolia,"Onobrychis viciifolia Scop., 1772",http://taxref.mnhn.fr/lod/taxon/110139,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sainfoins,eppo,,Onobrychis viciifolia,"Onobrychis viciifolia Scop., 1772",http://taxref.mnhn.fr/lod/taxon/110139,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salades,eppo,,Lactuca sativa,"Lactuca sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/104771,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon pratensis,"Tragopogon pratensis L., 1753",http://taxref.mnhn.fr/lod/taxon/127029,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon porrifolius,"Tragopogon porrifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/127028,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon porrifolius,"Tragopogon porrifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/127028,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon porrifolius subsp. australis,"Tragopogon porrifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/127028,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon porrifolius,"Tragopogon porrifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/127028,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Salsifis,eppo,,Tragopogon porrifolius,"Tragopogon porrifolius L., 1753",http://taxref.mnhn.fr/lod/taxon/127028,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sariettes,eppo,,Satureja montana,"Satureja montana L., 1753",http://taxref.mnhn.fr/lod/taxon/120908,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sarrasins,eppo,,Fagopyrum esculentum,"Fagopyrum esculentum Moench, 1794",http://taxref.mnhn.fr/lod/taxon/97935,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sarrasins,eppo,,Fagopyrum esculentum,"Fagopyrum esculentum Moench, 1794",http://taxref.mnhn.fr/lod/taxon/97935,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sarrasins,eppo,,Fagopyrum esculentum,"Fagopyrum esculentum Moench, 1794",http://taxref.mnhn.fr/lod/taxon/97935,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sauges,eppo,,Salvia officinalis,"Salvia officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/120678,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sauges,eppo,,Salvia sclarea,"Salvia sclarea L., 1753",http://taxref.mnhn.fr/lod/taxon/120691,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Scorsoneres,eppo,,Scorzonera hispanica,"Scorzonera hispanica L., 1753",http://taxref.mnhn.fr/lod/taxon/121959,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Scorsoneres,eppo,,Scorzonera hispanica,"Scorzonera hispanica L., 1753",http://taxref.mnhn.fr/lod/taxon/121959,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Seigles,eppo,,Secale cereale,"Secale cereale L., 1753",http://taxref.mnhn.fr/lod/taxon/122085,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Serradelles,eppo,,Ornithopus sativus,"Ornithopus sativus Brot., 1804",http://taxref.mnhn.fr/lod/taxon/111424,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Serradelles,eppo,,Ornithopus sativus,"Ornithopus sativus Brot., 1804",http://taxref.mnhn.fr/lod/taxon/111424,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sesames,eppo,,Sesamum indicum,"Sesamum indicum L., 1753 [nom. cons.]",http://taxref.mnhn.fr/lod/taxon/455271,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sojas,eppo,,Glycine max,"Glycine max (L.) Merr., 1917",http://taxref.mnhn.fr/lod/taxon/100422,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sojas_oleoproteagineux,eppo,,Glycine max,"Glycine max (L.) Merr., 1917",http://taxref.mnhn.fr/lod/taxon/100422,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sojas_verts,eppo,,Vigna radiata,"Vigna radiata (L.) R.Wilczek, 1954",http://taxref.mnhn.fr/lod/taxon/630879,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos,eppo,,Sorghum bicolor,"Sorghum bicolor (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/124369,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos_grains,eppo,,Sorghum bicolor,"Sorghum bicolor (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/124369,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Surfaces_toujours_en_herbe,eppo,,Ulex europaeus,"Ulex europaeus L., 1753",http://taxref.mnhn.fr/lod/taxon/128114,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sylviculture,eppo,,Buxus sempervirens,"Buxus sempervirens L., 1753",http://taxref.mnhn.fr/lod/taxon/87143,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tabac,eppo,,Nicotiana tabacum,"Nicotiana tabacum L., 1753",http://taxref.mnhn.fr/lod/taxon/109614,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tabac,eppo,,Nicotiana tabacum,"Nicotiana tabacum L., 1753",http://taxref.mnhn.fr/lod/taxon/109614,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tabac,eppo,,Nicotiana tabacum,"Nicotiana tabacum L., 1753",http://taxref.mnhn.fr/lod/taxon/109614,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Thyms,eppo,,Thymus vulgaris,"Thymus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/126582,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Thyms,eppo,,Thymus vulgaris,"Thymus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/126582,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tomates,eppo,,Solanum lycopersicum,"Solanum lycopersicum L., 1753",http://taxref.mnhn.fr/lod/taxon/124070,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Topinambours,eppo,,Helianthus tuberosus,"Helianthus tuberosus L., 1753",http://taxref.mnhn.fr/lod/taxon/101055,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Topinambours,eppo,,Helianthus tuberosus,"Helianthus tuberosus L., 1753",http://taxref.mnhn.fr/lod/taxon/101055,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tournesols,eppo,,Heliotropium europaeum,"Heliotropium europaeum L., 1753",http://taxref.mnhn.fr/lod/taxon/101144,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tournesols,eppo,,Chrozophora tinctoria,"Chrozophora tinctoria (L.) A.Juss., 1824",http://taxref.mnhn.fr/lod/taxon/91010,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tournesols,eppo,,Chrozophora tinctoria,"Chrozophora tinctoria (L.) A.Juss., 1824",http://taxref.mnhn.fr/lod/taxon/91010,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles,eppo,,Trifolium alexandrinum,"Trifolium alexandrinum L., 1755",http://taxref.mnhn.fr/lod/taxon/159942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles,eppo,,Trifolium resupinatum,"Trifolium resupinatum L., 1753",http://taxref.mnhn.fr/lod/taxon/127457,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles,eppo,,Trifolium resupinatum,"Trifolium fragiferum L., 1753",http://taxref.mnhn.fr/lod/taxon/127314,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles,eppo,,Trifolium resupinatum,"Trifolium clusii Godr. & Gren., 1849",http://taxref.mnhn.fr/lod/taxon/127274,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_blancs,eppo,,Desmodium heterophyllum,"Grona heterophylla (Willd.) H.Ohashi & K.Ohashi, 2018",http://taxref.mnhn.fr/lod/taxon/929299,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_blancs,eppo,,Trifolium repens,"Trifolium repens L., 1753",http://taxref.mnhn.fr/lod/taxon/127454,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_blancs,eppo,,Trifolium repens,"Trifolium repens L., 1753",http://taxref.mnhn.fr/lod/taxon/127454,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_hybrides,eppo,,Trifolium hybridum,"Trifolium hybridum L., 1753",http://taxref.mnhn.fr/lod/taxon/127337,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_hybrides,eppo,,Trifolium hybridum,"Trifolium nigrescens Viv., 1808",http://taxref.mnhn.fr/lod/taxon/127402,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_incarnats,eppo,,Trifolium incarnatum,"Trifolium incarnatum L., 1753",http://taxref.mnhn.fr/lod/taxon/127340,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_micheli,eppo,,Trifolium michelianum,"Trifolium michelianum Savi, 1798",http://taxref.mnhn.fr/lod/taxon/127386,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_micheli,eppo,,Trifolium michelianum,"Trifolium hybridum var. hybridum L., 1753",http://taxref.mnhn.fr/lod/taxon/141860,http://taxref.mnhn.fr/lod/taxrank/Varietas
+http://ontology.inrae.fr/frenchcropusage/Trefles_perse,eppo,,Trifolium resupinatum,"Trifolium resupinatum L., 1753",http://taxref.mnhn.fr/lod/taxon/127457,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_perse,eppo,,Trifolium resupinatum,"Trifolium fragiferum L., 1753",http://taxref.mnhn.fr/lod/taxon/127314,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_perse,eppo,,Trifolium resupinatum,"Trifolium clusii Godr. & Gren., 1849",http://taxref.mnhn.fr/lod/taxon/127274,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_violets,eppo,,Trifolium pratense,"Trifolium pratense L., 1753",http://taxref.mnhn.fr/lod/taxon/127439,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_violets,eppo,,Trifolium pratense,"Trifolium pratense L., 1753",http://taxref.mnhn.fr/lod/taxon/127439,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Valerianes,eppo,,Valeriana officinalis,"Valeriana officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/128419,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vanilliers,eppo,,Vanilla planifolia,"Vanilla planifolia Andrews, 1808",http://taxref.mnhn.fr/lod/taxon/447885,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vanilliers,eppo,,Vanilla planifolia,"Vanilla planifolia Andrews, 1808",http://taxref.mnhn.fr/lod/taxon/447885,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vanilliers,eppo,,Vanilla planifolia,"Vanilla planifolia Andrews, 1808",http://taxref.mnhn.fr/lod/taxon/447885,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vanilliers,eppo,,Vanilla planifolia,"Vanilla planifolia Andrews, 1808",http://taxref.mnhn.fr/lod/taxon/447885,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Veroniques,eppo,,Veronica officinalis,"Veronica officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/128938,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Verveines,eppo,,Verbena officinalis,"Verbena officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/128754,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia sativa,"Vicia sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/129298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia sativa,"Vicia sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/129298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia villosa subsp. varia,"Vicia dasycarpa Ten., 1829",http://taxref.mnhn.fr/lod/taxon/129153,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia pannonica,"Vicia pannonica Crantz, 1769",http://taxref.mnhn.fr/lod/taxon/129265,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia pannonica,"Vicia pannonica Crantz, 1769",http://taxref.mnhn.fr/lod/taxon/129265,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,eppo,,Vicia sativa,"Vicia sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/129298,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vetivers,eppo,,Chrysopogon zizanioides,"Chrysopogon zizanioides (L.) Roberty, 1960",http://taxref.mnhn.fr/lod/taxon/632480,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vignes_agrement,eppo,,Parthenocissus quinquefolia,"Parthenocissus quinquefolia (L.) Planch., 1887",http://taxref.mnhn.fr/lod/taxon/112465,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vignes_agrement,eppo,,Parthenocissus quinquefolia,"Parthenocissus inserta (A.Kern.) Fritsch, 1922",http://taxref.mnhn.fr/lod/taxon/112463,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vignes_cultivees,eppo,,Vitis vinifera,"Vitis vinifera L., 1753",http://taxref.mnhn.fr/lod/taxon/129968,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Violettes_odorantes,eppo,,Viola odorata,"Viola odorata L., 1753",http://taxref.mnhn.fr/lod/taxon/129632,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ylang_ylangs,eppo,,Cananga odorata,"Cananga odorata (Lam.) Hook.f. & Thomson, 1768",http://taxref.mnhn.fr/lod/taxon/446902,http://taxref.mnhn.fr/lod/taxrank/Species

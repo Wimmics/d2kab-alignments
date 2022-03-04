@@ -1,0 +1,88 @@
+fcu_concept,method,geves_name,eppo_scientific_name,taxref_ref_full_name,taxon,rank
+http://ontology.inrae.fr/frenchcropusage/Abricotiers,geves,Abricotier,,"Prunus armeniaca L., 1753",http://taxref.mnhn.fr/lod/taxon/116041,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ails,geves,Ail,,"Allium sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/81505,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Artichauts,geves,Artichaut,,"Cynara scolymus L., 1753",http://taxref.mnhn.fr/lod/taxon/93795,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Artichauts,geves,Artichaut,,"Cynara scolymus subsp. cardunculus (L.) Bonnier & Layens, 1894",http://taxref.mnhn.fr/lod/taxon/93783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Artichauts,geves,Artichaut,,"Cynara scolymus var. redonensis N.H.F.Desp., 1838",http://taxref.mnhn.fr/lod/taxon/93795,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Artichauts,geves,Artichaut,,"Cynara cardunculus L., 1753",http://taxref.mnhn.fr/lod/taxon/93783,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Asperges,geves,Asperge,,"Asparagus officinalis L., 1753",http://taxref.mnhn.fr/lod/taxon/84279,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Aubergines,geves,Aubergine,,"Solanum melongena L., 1753",http://taxref.mnhn.fr/lod/taxon/124075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_hiver,geves,Avoine d'hiver,,"Avena sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/85357,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_nues_hiver,geves,Avoine nue d'hiver,,"Avena nuda L., 1756",http://taxref.mnhn.fr/lod/taxon/85323,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_nues_printemps,geves,Avoine nue de printemps,,"Avena nuda L., 1756",http://taxref.mnhn.fr/lod/taxon/85323,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_printemps,geves,Avoine de printemps,,"Avena sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/85357,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Avoines_rudes,geves,Avoine rude,,"Avena strigosa Schreb., 1771",http://taxref.mnhn.fr/lod/taxon/85378,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_durs,geves,Blé dur,,"Triticum durum Desf., 1798",http://taxref.mnhn.fr/lod/taxon/141978,http://taxref.mnhn.fr/lod/taxrank/SubSpecies
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres_hiver,geves,Blé tendre d'hiver,,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Bles_tendres_printemps,geves,Blé tendre de printemps,,"Triticum aestivum L., 1753",http://taxref.mnhn.fr/lod/taxon/127692,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Carottes,geves,Carotte,,"Daucus carota L., 1753",http://taxref.mnhn.fr/lod/taxon/94503,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cassissiers,geves,Cassis,,"Ribes nigrum L., 1753",http://taxref.mnhn.fr/lod/taxon/117766,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cedratiers,geves,Cédratier,,"Citrus medica L., 1753",http://taxref.mnhn.fr/lod/taxon/91811,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Celeris,geves,Céleri,,"Apium graveolens L., 1753",http://taxref.mnhn.fr/lod/taxon/83195,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerfeuils,geves,Cerfeuil,,"Anthriscus cerefolium (L.) Hoffm., 1814",http://taxref.mnhn.fr/lod/taxon/82932,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,geves,Cerisier acide,,"Prunus cerasus L., 1753",http://taxref.mnhn.fr/lod/taxon/116054,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Cerisiers,geves,Cerisier doux,,"Prunus cerasus L., 1753",http://taxref.mnhn.fr/lod/taxon/116054,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chanvres,geves,Chanvre,,"Cannabis sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/87788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chataigniers,geves,Châtaignier,,"Castanea vulgaris Lam., 1785",http://taxref.mnhn.fr/lod/taxon/89304,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Chicorees_industrielles,geves,Chicorée industrielle,,"Cichorium intybus L., 1753",http://taxref.mnhn.fr/lod/taxon/91169,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Ciboulettes,geves,Ciboulette,,"Allium schoenoprasum L., 1753",http://taxref.mnhn.fr/lod/taxon/81508,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Citronniers,geves,Citronnier,,"Citrus limon (L.) Burm.f., 1768",http://taxref.mnhn.fr/lod/taxon/966788,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Colzas_hiver,geves,Colza d'hiver,,"Brassica napus L., 1753",http://taxref.mnhn.fr/lod/taxon/86399,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Colzas_oleagineux_hiver,geves,Colza d'hiver,,"Brassica napus L., 1753",http://taxref.mnhn.fr/lod/taxon/86399,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Courgettes,geves,Courgette,,"Cucurbita pepo L., 1753",http://taxref.mnhn.fr/lod/taxon/93555,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenouils,geves,Fenouil,,"Foeniculum vulgare Mill., 1768",http://taxref.mnhn.fr/lod/taxon/98756,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenugrecs,geves,Fenugrec,,"Trigonella foenum-graecum L., 1753",http://taxref.mnhn.fr/lod/taxon/127561,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Fenugrecs_engrais_verts,geves,Fenugrec,,"Trigonella foenum-graecum L., 1753",http://taxref.mnhn.fr/lod/taxon/127561,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Feveroles_hiver,geves,Féverole d'hiver,,"Vicia faba L., 1753",http://taxref.mnhn.fr/lod/taxon/129171,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Feveroles_printemps,geves,Féverole de printemps,,"Vicia faba L., 1753",http://taxref.mnhn.fr/lod/taxon/129171,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Feves,geves,Fève,,"Vicia faba L., 1753",http://taxref.mnhn.fr/lod/taxon/129171,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Framboisiers,geves,Framboisier,,"Rubus idaeus L., 1753",http://taxref.mnhn.fr/lod/taxon/119149,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Groseilliers,geves,Groseillier,,"Ribes rubrum L., 1753",http://taxref.mnhn.fr/lod/taxon/117774,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots,geves,Haricot,,"Phaseolus vulgaris L., 1753",http://taxref.mnhn.fr/lod/taxon/113075,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Haricots_Espagne,geves,Haricot d'Espagne,,"Phaseolus coccineus L., 1753",http://taxref.mnhn.fr/lod/taxon/113062,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Laitues,geves,Laitue,,"Lactuca sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/104771,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lentilles,geves,Lentille,,"Lens culinaris Medik., 1797",http://taxref.mnhn.fr/lod/taxon/129211,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lins,geves,Lin,,"Linum usitatissimum L., 1753",http://taxref.mnhn.fr/lod/taxon/106349,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lotiers,geves,Lotier,,"Lotus corniculatus L., 1753",http://taxref.mnhn.fr/lod/taxon/106653,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_engrais_verts,geves,Lupin blanc de printemps,,"Lupinus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/106765,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs_hiver,geves,Lupin blanc d'hiver,,"Lupinus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/106765,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs_printemps,geves,Lupin blanc de printemps,,"Lupinus albus L., 1753",http://taxref.mnhn.fr/lod/taxon/106765,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Luzernes,geves,Luzerne,,"Medicago sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/107711,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Maches,geves,Mâche,,"Valerianella locusta (L.) Laterr., 1821",http://taxref.mnhn.fr/lod/taxon/128476,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mais,geves,Maïs,,"Zea mays L., 1753",http://taxref.mnhn.fr/lod/taxon/130621,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Mandariniers,geves,Mandarinier,,"Citrus deliciosa Ten., 1840",http://taxref.mnhn.fr/lod/taxon/91812,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Melons,geves,Melon,,"Cucumis melo L., 1753",http://taxref.mnhn.fr/lod/taxon/93535,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Moutardes_brunes,geves,Moutarde brune,,"Brassica juncea (L.) Czern., 1859",http://taxref.mnhn.fr/lod/taxon/86383,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Noisetiers,geves,Noisetier,,"Corylus avellana L., 1753",http://taxref.mnhn.fr/lod/taxon/92606,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Noyers,geves,Noyer,,"Juglans regia L., 1753",http://taxref.mnhn.fr/lod/taxon/104076,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oignons,geves,Oignon,,"Allium cepa L., 1753",http://taxref.mnhn.fr/lod/taxon/81339,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Oliviers,geves,Olivier,,"Olea europaea L., 1753",http://taxref.mnhn.fr/lod/taxon/110002,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orges_hiver,geves,Orge d'hiver,,"Hordeum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/102999,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Orges_printemps,geves,Orge de printemps,,"Hordeum vulgare L., 1753",http://taxref.mnhn.fr/lod/taxon/102999,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pechers,geves,Pêcher,,"Prunus persica (L.) Batsch, 1801",http://taxref.mnhn.fr/lod/taxon/116112,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Phacelies,geves,Phacélie,,"Phacelia tanacetifolia Benth., 1837",http://taxref.mnhn.fr/lod/taxon/112915,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Poireaux,geves,Poireau,,"Allium porrum L., 1753",http://taxref.mnhn.fr/lod/taxon/81483,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_chiches,geves,Pois-chiche,,"Cicer arietinum L., 1753",http://taxref.mnhn.fr/lod/taxon/91136,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_fourragers,geves,Pois fourrager,,"Pisum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/113778,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_potagers,geves,Pois potager,,"Pisum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/113778,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pois_proteagineux,geves,Pois protéagineux,,"Pisum sativum L., 1753",http://taxref.mnhn.fr/lod/taxon/113778,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pommes_de_terre,geves,Pomme de Terre,,"Solanum tuberosum L., 1753",http://taxref.mnhn.fr/lod/taxon/124125,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pommiers,geves,Pommier,,"Malus domestica Borkh., 1803 [nom. cons.]",http://taxref.mnhn.fr/lod/taxon/107207,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Potirons,geves,Potiron,,"Cucurbita maxima Duchesne, 1786",http://taxref.mnhn.fr/lod/taxon/93550,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Pruniers,geves,Prunier,,"Prunus domestica L., 1753",http://taxref.mnhn.fr/lod/taxon/116067,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Radis,geves,Radis,,"Raphanus sativus L., 1753",http://taxref.mnhn.fr/lod/taxon/117355,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Riz,geves,Riz,,"Oryza sativa L., 1753",http://taxref.mnhn.fr/lod/taxon/111793,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sainfoins,geves,Sainfoin,,"Onobrychis viciifolia Scop., 1772",http://taxref.mnhn.fr/lod/taxon/110139,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sojas,geves,Soja,,"Glycine max (L.) Merr., 1917",http://taxref.mnhn.fr/lod/taxon/100422,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos,geves,Sorgho,,"Sorghum bicolor (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/124369,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos,geves,Sorgho,,"Sorghum sudanense (Piper) Stapf, 1917",http://taxref.mnhn.fr/lod/taxon/124389,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos_grains,geves,Sorgho,,"Sorghum bicolor (L.) Moench, 1794",http://taxref.mnhn.fr/lod/taxon/124369,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Sorghos_grains,geves,Sorgho,,"Sorghum sudanense (Piper) Stapf, 1917",http://taxref.mnhn.fr/lod/taxon/124389,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tomates,geves,Tomate,,"Solanum lycopersicum L., 1753",http://taxref.mnhn.fr/lod/taxon/124070,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Tournesols,geves,Tournesol,,"Helianthus annuus L., 1753",http://taxref.mnhn.fr/lod/taxon/101027,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles,geves,Trèfle d'alexandrie,,"Trifolium alexandrinum L., 1755",http://taxref.mnhn.fr/lod/taxon/159942,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_blancs,geves,Trèfle blanc,,"Trifolium repens L., 1753",http://taxref.mnhn.fr/lod/taxon/127454,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_hybrides,geves,Trèfle hybride,,"Trifolium hybridum L., 1753",http://taxref.mnhn.fr/lod/taxon/127337,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_incarnats,geves,Trèfle incarnat,,"Trifolium incarnatum L., 1753",http://taxref.mnhn.fr/lod/taxon/127340,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Trefles_violets,geves,Trèfle violet,,"Trifolium pratense L., 1753",http://taxref.mnhn.fr/lod/taxon/127439,http://taxref.mnhn.fr/lod/taxrank/Species
+http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres,geves,Vesce de Pannonie,,"Vicia pannonica Crantz, 1769",http://taxref.mnhn.fr/lod/taxon/129265,http://taxref.mnhn.fr/lod/taxrank/Species
