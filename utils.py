@@ -6,6 +6,7 @@ from time import sleep
 
 # Prefixes to use in SPARQL queries
 prefixes = '''
+prefix api:            <http://ns.inria.fr/sparql-micro-service/api#>
 prefix fcu:            <http://ontology.inrae.fr/frenchcropusage/>
 prefix owl:            <http://www.w3.org/2002/07/owl#>
 prefix rdf:            <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
