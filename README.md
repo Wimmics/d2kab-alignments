@@ -17,16 +17,18 @@ The tables below give, for each experiment "precision" or "recall", the results 
 
 ## Algorithm tuned for precision
 
+Results: 651 alignments of 300 FCU concepts with 579 taxa
+
 | Alignment method   | FCU concepts | Intermediate source | TAXREF-LD taxa | Taxonomic ranks |
 | :-- |       :--:   |         :--: |           :--: | :--: |
 | 1. FCU name `-exact string match->` TAXREF-LD vernacular name | 161 | | 369 | species, subspecies, varietas, forma, cultivar |
 | 2. FCU name `-exact string match->` GEVES name `->` GEVES scientific name with authority `-substring match->` TAXREF-LD full scientific name | 64 | 57  | 57 | species, subspecies |
 | 3. FCU name `-API match->` EPPO code `->` EPPO scientific name with authority/date `-exact string match->` TAXREF-LD full scientific name | 266 | 306 | 315 | species, subspecies, varietas, forma, cultivar |
 
-Merged results: 300 FCU concepts, 579 taxa
-
 
 ## Algorithm tuned for recall
+
+Results: 710 alignments of 337 FCU concepts with 609 taxa
 
 | Alignment method   | FCU concepts | Intermediate source | TAXREF-LD taxa | Taxonomic ranks |
 | :-- |       :--:   |         :--: |           :--: | :--: |
@@ -34,11 +36,9 @@ Merged results: 300 FCU concepts, 579 taxa
 | 2. FCU name `-exact string match->` GEVES name `->` GEVES scientific name with authority `-substring match->` TAXREF-LD full scientific name | 81 | 78  | 70 | species, subspecies |
 | 3. FCU name `-API match->` EPPO code `->` EPPO scientific name with authority/date `-exact string match->` TAXREF-LD full scientific name | 300 | 326 | 336 | species, subspecies, varietas, forma, cultivar |
 
-Merged results: 337 FCU concepts, 609 taxa
-
 
 ## License
 
-Data files (csv, xlsx) are made available under the terms of the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+Data files (csv, ttl, xlsx) are made available under the terms of the [Open Data Commons Attribution License v1.0](https://opendatacommons.org/licenses/by/1-0/) (ODC-By-1.0) license.
 
-The code used to produce the data files, provided within Jupyter Notebooks, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+The code used to produce the data files, provided within Jupyter Notebooks, is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
