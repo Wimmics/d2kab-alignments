@@ -2,7 +2,8 @@
 
 This project contains different experiments meant to align the [French Crop Usage](http://ontology.irstea.fr/pmwiki.php/Site/FrenchCropUsage) theaurus (FCU) with [TAXREF-LD](https://github.com/frmichel/taxref-ld/), the Linked Data representation of the french taxonomic registry, [TAXREF](https://inpn.mnhn.fr/programme/referentiel-taxonomique-taxref?lg=en).
 
-One experiment favors alignments precision (fewer alignments with better precision), while the other favors recall (more alignments with potentially more false positives).
+One experiment focuses on only the group of FCU cultivated crops, while the other considers all FCU concepts leading to more alignments with
+ potentially more false positives.
 
 In both cases, 3 methods are run separately and intermediate results and then merged:
 - Method 1: direct lowercase exact match of FCU crop names with TAXREF-LD vernacular names.
@@ -13,9 +14,10 @@ In both cases, 3 methods are run separately and intermediate results and then me
     - use the EPPO API to match FCU crop names with EPPO codes, and get the corresponding full scientific names;
     - lowercase exact match of EPPO full scientific names with TAXREF-LD full scientific names.
 
-The tables below give, for each experiment "precision" or "recall", the results of each method in terms of number of FCU crops aligned with TAXREF-LD taxa. Column "Intermediate source" means GEVES in method 2 and EPPO in method 3.
+The tables below give, for each experiment, the results of each method in terms of number of FCU concepts aligned with TAXREF-LD taxa. Column "Intermediate source" denotes GEVES in method 2 and EPPO in method 3.
 
-## Algorithm tuned for precision
+
+## Alignment of group *cultivated crops*
 
 Results: 651 alignments of 300 FCU concepts with 579 taxa
 
@@ -25,8 +27,7 @@ Results: 651 alignments of 300 FCU concepts with 579 taxa
 | 2. FCU name `-exact string match->` GEVES name `->` GEVES scientific name with authority `-substring match->` TAXREF-LD full scientific name | 64 | 57  | 57 | species, subspecies |
 | 3. FCU name `-API match->` EPPO code `->` EPPO scientific name with authority/date `-exact string match->` TAXREF-LD full scientific name | 266 | 306 | 315 | species, subspecies, varietas, forma, cultivar |
 
-
-## Algorithm tuned for recall
+## Alignment of group *all concepts*
 
 Results: 710 alignments of 337 FCU concepts with 609 taxa
 
